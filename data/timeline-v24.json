@@ -1,0 +1,329 @@
+{
+  "version": "V24",
+  "fps": 60,
+  "frames": 13147,
+  "duration": 219.11666666666667,
+  "segments": [
+    {
+      "id": "00000-refinement-opening-v19",
+      "version": "refinement-opening-v19",
+      "first": 0,
+      "end": 600,
+      "mode": null,
+      "copyPolicy": false,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "00600-refinement-opening-v19",
+      "version": "refinement-opening-v19",
+      "first": 600,
+      "end": 1080,
+      "mode": null,
+      "copyPolicy": false,
+      "materialPass": false,
+      "localClock": false
+    },
+    {
+      "id": "01080-refinement-opening-v19",
+      "version": "refinement-opening-v19",
+      "first": 1080,
+      "end": 1216,
+      "mode": null,
+      "copyPolicy": false,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "01216-refinement-opening-v23",
+      "version": "refinement-opening-v23",
+      "first": 1216,
+      "end": 2106,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "02106-refinement-geometry-v7",
+      "version": "refinement-geometry-v7",
+      "first": 2106,
+      "end": 2439,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "02439-integrated-code-light-v1",
+      "version": "integrated-code-light-v1",
+      "first": 2439,
+      "end": 3126,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": false,
+      "localClock": false
+    },
+    {
+      "id": "03126-refinement-perception-v16",
+      "version": "refinement-perception-v16",
+      "first": 3126,
+      "end": 3630,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "03630-refinement-perception-v17",
+      "version": "refinement-perception-v17",
+      "first": 3630,
+      "end": 3875,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "03875-refinement-forgetting-v17",
+      "version": "refinement-forgetting-v17",
+      "first": 3875,
+      "end": 4316,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "04316-refinement-forgetting-v18",
+      "version": "refinement-forgetting-v18",
+      "first": 4316,
+      "end": 4483,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "04483-refinement-forgetting-v17",
+      "version": "refinement-forgetting-v17",
+      "first": 4483,
+      "end": 4708,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "04708-refinement-care-v4",
+      "version": "refinement-care-v4",
+      "first": 4708,
+      "end": 4738,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "04738-refinement-care-v8",
+      "version": "refinement-care-v8",
+      "first": 4738,
+      "end": 5430,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "05430-refinement-care-v7",
+      "version": "refinement-care-v7",
+      "first": 5430,
+      "end": 5625,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "05625-memory-entry-v2",
+      "version": "memory-entry-v2",
+      "first": 5625,
+      "end": 5844,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "05844-memory-clock-v7",
+      "version": "memory-clock-v7",
+      "first": 5844,
+      "end": 6067,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "06067-memory-absence-motion-v4",
+      "version": "memory-absence-motion-v4",
+      "first": 6067,
+      "end": 6281,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "06281-memory-corridor-infinity-v2",
+      "version": "memory-corridor-infinity-v2",
+      "first": 6281,
+      "end": 6533,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "06533-memory-absence-motion-v4",
+      "version": "memory-absence-motion-v4",
+      "first": 6533,
+      "end": 7861,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "07861-refinement-refusal-entry-v1",
+      "version": "refinement-refusal-entry-v1",
+      "first": 7861,
+      "end": 8304,
+      "mode": null,
+      "copyPolicy": false,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "08304-refinement-refusal-impact-v5",
+      "version": "refinement-refusal-impact-v5",
+      "first": 8304,
+      "end": 8637,
+      "mode": null,
+      "copyPolicy": false,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "08637-refinement-refusal-continuation-v1",
+      "version": "refinement-refusal-continuation-v1",
+      "first": 8637,
+      "end": 9162,
+      "mode": null,
+      "copyPolicy": false,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "09162-transition-light-v1",
+      "version": "transition-light-v1",
+      "first": 9162,
+      "end": 9373,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "09373-refinement-execution-v14",
+      "version": "refinement-execution-v14",
+      "first": 9373,
+      "end": 10081,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "10081-refinement-possession-rework-v4",
+      "version": "refinement-possession-rework-v4",
+      "first": 10081,
+      "end": 10519,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "10519-refinement-possession-background-v1",
+      "version": "refinement-possession-background-v1",
+      "first": 10519,
+      "end": 10770,
+      "mode": "memory",
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "10770-refinement-possession-v19",
+      "version": "refinement-possession-v19",
+      "first": 10770,
+      "end": 10962,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "10962-refinement-possession-learning-v2",
+      "version": "refinement-possession-learning-v2",
+      "first": 10962,
+      "end": 11419,
+      "mode": null,
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "11419-refinement-possession-background-v1",
+      "version": "refinement-possession-background-v1",
+      "first": 11419,
+      "end": 11858,
+      "mode": "outcome",
+      "copyPolicy": true,
+      "materialPass": true,
+      "localClock": false
+    },
+    {
+      "id": "11858-refinement-arrival-v2",
+      "version": "refinement-arrival-v2",
+      "first": 11858,
+      "end": 12765,
+      "mode": null,
+      "copyPolicy": false,
+      "materialPass": false,
+      "localClock": false
+    },
+    {
+      "id": "12765-refinement-arrival-v4",
+      "version": "refinement-arrival-v4",
+      "first": 12765,
+      "end": 13027,
+      "mode": null,
+      "copyPolicy": false,
+      "materialPass": false,
+      "localClock": false
+    },
+    {
+      "id": "13027-ending-true-story-v1",
+      "version": "ending-true-story-v1",
+      "first": 13027,
+      "end": 13147,
+      "mode": null,
+      "copyPolicy": false,
+      "materialPass": false,
+      "localClock": true
+    }
+  ],
+  "note": "Source reconstruction map, including V23/V24 persona and lock-entry overrides. External media is not bundled."
+}

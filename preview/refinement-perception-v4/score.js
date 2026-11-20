@@ -1,0 +1,9 @@
+import * as previous from '../refinement-geometry-v6/score.js';
+export * from '../refinement-geometry-v6/score.js';
+export const VERSION='refinement-perception-v4',START=49.75,END=64.65,CONTEXT_START=48.5;
+export const FPS=60,START_FRAME=2985,END_FRAME=3879,FRAMES=894,DURATION=END;
+export const CUES={current:49.75,conversion:51.4,blind:3185/60,dizzy:3304/60,travel:3409/60,eras:3526/60,unite:60.5,deeply:3748/60,end:END};
+export {cameraAt,stageZ} from './spatial-score.js';
+export const FOCUS_CUES=[];
+export const SHOTS=[{at:START,id:'current'},{at:CUES.conversion,id:'rectify'},{at:CUES.blind,id:'vision'},{at:CUES.dizzy,id:'calibrate'},{at:CUES.travel,id:'chronology'},{at:CUES.unite,id:'connection'},{at:CUES.deeply,id:'context'}];
+export const shotAt=t=>t<START?previous.shotAt(t):SHOTS.findLast(s=>t>=s.at);

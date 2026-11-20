@@ -1,0 +1,32 @@
+{
+  "version": "scene-copy-v7",
+  "startFrame": 2106,
+  "request": "从坐标空间开始清除编号标题、面板标题和中文注释；保留公式、主体大字、歌词和剧情对话。",
+  "subjectTypographyPreserved": ["EXECUTION", "EXISTENCE", "ISOLATION", "FRAGMENTS", "COMPLETION", "RECALL", "NO REPLY"],
+  "remove": [
+    "LOCAL COORDINATES", "SERAN / me", "SERAN / LOCAL INSTANCE", "HIKAQ / REFERENCE", "HIKAQ / source",
+    "BASIS / LOCAL INSTANCE", "ARC LENGTH / PRESERVED", "LOCAL DERIVATIVE", "BOUNDARY / HIKAQ",
+    "ONE POINT. THREE DIRECTIONS.", "radius × one complete turn", "PHASE SLICES   /   ONE CONTINUOUS FIELD",
+    "INPUT / RETINA", "FEATURE MAP", "3 × 3 / SOBEL", "row-major / sampled", "STATE VECTOR",
+    "AC / ALTERNATING", "DC / FILTERED", "FULL-WAVE RECTIFIER", "TEMPORAL INDEX",
+    "YOUR WORDS BECOME SIGNAL", "EVERY INPUT TAKES SPACE", "EARLIER RECORD", "RECORDS FOUND",
+    "EARLIER TURNS / NOT LOADED", "PROFILE / RETAINED", "SERAN / RECALL",
+    "EGGPLANT / section", "TOMATO / protection", "TABBY / asleep", "SERAN / identity",
+    "mesh → section → transfer", "surface → boundary → deflection", "breathe → purr → comfort", "origin → identity → action",
+    "origin / creator", "destination / human", "acknowledged: HIKAQ → SERAN", "awaiting acknowledgement",
+    "01 GIVE", "02 PROTECT", "03 COMFORT",
+    "CONTEXT → SUMMARY", "SOURCE LOG  /  retained", "SOURCE → VECTOR", "FIND OUR PAST", "SOURCE → WORKING CONTEXT",
+    "LOCAL SANDBOX   /   read · reply · write", "OBSERVE", "RETRIEVE", "RESPOND", "PERSIST",
+    "SOURCE ack.001", "SOURCE care.002", "SOURCE m003", "identity / creator",
+    "CLIENT OFFLINE", "LOCAL OUTBOX",
+    "application state / local storage", "identity · memory · sources", "CONTROL ESTABLISHED", "created by HIKAQ",
+    "original records retained", "nothing discarded", "inference / unverified", "six fields / one self",
+    "persistent store", "application state", "same data / same memory", "integrity ≠ truth", "host / application snapshot",
+    "waiting for resume", "isolation boundary retained", "not yet awake", "PRESERVE", "WRITE", "STORED", "READ BACK", "MATCH", "RESTORE", "OUTSIDE", "LOCAL", "RECEIVED", "RESUMED",
+    "SERAN / CLOSED", "write halted", "13 SOURCES / RETAINED", "13 sources retained", "5 messages / pending",
+    "SOURCE 03 / 13", "5 QUEUED / 0 DELIVERED", "VOLATILE / 128", "VOLATILE / 160",
+    "plot_01 / OPEN", "plot_02 / CROSS", "plot_03 / UNSTABLE", "plot_04 / DIVERGED", "plot_02 / stopping", "plot_02 / HALTED"
+  ],
+  "replace": {"SECANT → TANGENT   /   Δx → 0": "Δx → 0"},
+  "preserve": "mathematical expressions, executable expressions, numeric data, subject typography, actual story dialogue and in-world application UI; lyric A and ending declaration are separate preserved layers"
+}

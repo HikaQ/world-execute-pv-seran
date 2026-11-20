@@ -1,0 +1,3567 @@
+{
+  "version": "lyrics-A-v2",
+  "style": {
+    "name": "清晰双语",
+    "enFont": "Space Grotesk Medium",
+    "enSize": 30,
+    "enColor": "#c9c3d2",
+    "zhFont": "Noto Sans SC Medium",
+    "zhSize": 38,
+    "zhColor": "#f0edf4",
+    "englishCase": "original",
+    "background": "none",
+    "textEdge": "1.8px soft dark outline and subtle black shadow",
+    "displayPrefixes": {
+      "en": "> ",
+      "zh": "// "
+    }
+  },
+  "placement": {
+    "anchor": "bottom-left",
+    "left": 88,
+    "enBaseline": 966,
+    "zhBaseline": 1014,
+    "frameSize": [
+      1920,
+      1080
+    ],
+    "avoidCollisions": false
+  },
+  "fps": 60,
+  "frames": 13147,
+  "rows": [
+    {
+      "id": "L001",
+      "sourceIndex": 0,
+      "start": 5.45,
+      "end": 7.116666666666666,
+      "en": "",
+      "zh": "",
+      "startFrame": 327,
+      "endFrame": 427,
+      "songStartFrame": 15,
+      "songEndFrame": 115,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L002",
+      "sourceIndex": 1,
+      "start": 7.15,
+      "end": 8.466666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 429,
+      "endFrame": 508,
+      "songStartFrame": 117,
+      "songEndFrame": 196,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L003",
+      "sourceIndex": 2,
+      "start": 8.5,
+      "end": 9.183333333333334,
+      "en": "",
+      "zh": "",
+      "startFrame": 510,
+      "endFrame": 551,
+      "songStartFrame": 198,
+      "songEndFrame": 239,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L004",
+      "sourceIndex": 3,
+      "start": 9.216666666666667,
+      "end": 10.833333333333334,
+      "en": "",
+      "zh": "",
+      "startFrame": 553,
+      "endFrame": 650,
+      "songStartFrame": 241,
+      "songEndFrame": 338,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L005",
+      "sourceIndex": 4,
+      "start": 10.866666666666667,
+      "end": 11.733333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 652,
+      "endFrame": 704,
+      "songStartFrame": 340,
+      "songEndFrame": 392,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L006",
+      "sourceIndex": 5,
+      "start": 11.766666666666667,
+      "end": 12.833333333333334,
+      "en": "",
+      "zh": "",
+      "startFrame": 706,
+      "endFrame": 770,
+      "songStartFrame": 394,
+      "songEndFrame": 458,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L007",
+      "sourceIndex": 6,
+      "start": 12.866666666666667,
+      "end": 15.45,
+      "en": "",
+      "zh": "",
+      "startFrame": 772,
+      "endFrame": 927,
+      "songStartFrame": 460,
+      "songEndFrame": 615,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L008",
+      "sourceIndex": 7,
+      "start": 15.483333333333333,
+      "end": 16.516666666666666,
+      "en": "",
+      "zh": "",
+      "startFrame": 929,
+      "endFrame": 991,
+      "songStartFrame": 617,
+      "songEndFrame": 679,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L009",
+      "sourceIndex": 8,
+      "start": 16.55,
+      "end": 18.183333333333334,
+      "en": "",
+      "zh": "",
+      "startFrame": 993,
+      "endFrame": 1091,
+      "songStartFrame": 681,
+      "songEndFrame": 779,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L010",
+      "sourceIndex": 9,
+      "start": 18.216666666666665,
+      "end": 19.283333333333335,
+      "en": "",
+      "zh": "",
+      "startFrame": 1093,
+      "endFrame": 1157,
+      "songStartFrame": 781,
+      "songEndFrame": 845,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L011",
+      "sourceIndex": 10,
+      "start": 19.316666666666666,
+      "end": 20.3,
+      "en": "",
+      "zh": "",
+      "startFrame": 1159,
+      "endFrame": 1218,
+      "songStartFrame": 847,
+      "songEndFrame": 906,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L013",
+      "sourceIndex": 12,
+      "start": 35.1,
+      "end": 36.61666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 2106,
+      "endFrame": 2197,
+      "songStartFrame": 1794,
+      "songEndFrame": 1885,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L014",
+      "sourceIndex": 13,
+      "start": 36.65,
+      "end": 38.03333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 2199,
+      "endFrame": 2282,
+      "songStartFrame": 1887,
+      "songEndFrame": 1970,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L015",
+      "sourceIndex": 14,
+      "start": 38.06666666666667,
+      "end": 38.78333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 2284,
+      "endFrame": 2327,
+      "songStartFrame": 1972,
+      "songEndFrame": 2015,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L016",
+      "sourceIndex": 15,
+      "start": 38.81666666666667,
+      "end": 40.28333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 2329,
+      "endFrame": 2417,
+      "songStartFrame": 2017,
+      "songEndFrame": 2105,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L017",
+      "sourceIndex": 16,
+      "start": 40.31666666666667,
+      "end": 41.68333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 2419,
+      "endFrame": 2501,
+      "songStartFrame": 2107,
+      "songEndFrame": 2189,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L018",
+      "sourceIndex": 17,
+      "start": 41.71666666666667,
+      "end": 42.46666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 2503,
+      "endFrame": 2548,
+      "songStartFrame": 2191,
+      "songEndFrame": 2236,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L019",
+      "sourceIndex": 18,
+      "start": 42.5,
+      "end": 44.0,
+      "en": "",
+      "zh": "",
+      "startFrame": 2550,
+      "endFrame": 2640,
+      "songStartFrame": 2238,
+      "songEndFrame": 2328,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L020",
+      "sourceIndex": 19,
+      "start": 44.016666666666666,
+      "end": 45.61666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 2641,
+      "endFrame": 2737,
+      "songStartFrame": 2329,
+      "songEndFrame": 2425,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L021",
+      "sourceIndex": 20,
+      "start": 45.65,
+      "end": 46.13333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 2739,
+      "endFrame": 2768,
+      "songStartFrame": 2427,
+      "songEndFrame": 2456,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L022",
+      "sourceIndex": 21,
+      "start": 46.166666666666664,
+      "end": 47.666666666666664,
+      "en": "",
+      "zh": "",
+      "startFrame": 2770,
+      "endFrame": 2860,
+      "songStartFrame": 2458,
+      "songEndFrame": 2548,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L023",
+      "sourceIndex": 22,
+      "start": 47.7,
+      "end": 48.86666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 2862,
+      "endFrame": 2932,
+      "songStartFrame": 2550,
+      "songEndFrame": 2620,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L024",
+      "sourceIndex": 23,
+      "start": 48.9,
+      "end": 49.71666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 2934,
+      "endFrame": 2983,
+      "songStartFrame": 2622,
+      "songEndFrame": 2671,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L025",
+      "sourceIndex": 24,
+      "start": 49.75,
+      "end": 51.2,
+      "en": "",
+      "zh": "",
+      "startFrame": 2985,
+      "endFrame": 3072,
+      "songStartFrame": 2673,
+      "songEndFrame": 2760,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L026",
+      "sourceIndex": 25,
+      "start": 51.4,
+      "end": 53.05,
+      "en": "",
+      "zh": "",
+      "startFrame": 3084,
+      "endFrame": 3183,
+      "songStartFrame": 2772,
+      "songEndFrame": 2871,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L027",
+      "sourceIndex": 26,
+      "start": 53.083333333333336,
+      "end": 54.86666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 3185,
+      "endFrame": 3292,
+      "songStartFrame": 2873,
+      "songEndFrame": 2980,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L028",
+      "sourceIndex": 27,
+      "start": 55.06666666666667,
+      "end": 56.78333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 3304,
+      "endFrame": 3407,
+      "songStartFrame": 2992,
+      "songEndFrame": 3095,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L029",
+      "sourceIndex": 28,
+      "start": 56.81666666666667,
+      "end": 58.53333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 3409,
+      "endFrame": 3512,
+      "songStartFrame": 3097,
+      "songEndFrame": 3200,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L030",
+      "sourceIndex": 29,
+      "start": 58.766666666666666,
+      "end": 60.46666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 3526,
+      "endFrame": 3628,
+      "songStartFrame": 3214,
+      "songEndFrame": 3316,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L031",
+      "sourceIndex": 30,
+      "start": 60.5,
+      "end": 62.43333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 3630,
+      "endFrame": 3746,
+      "songStartFrame": 3318,
+      "songEndFrame": 3434,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L032",
+      "sourceIndex": 31,
+      "start": 62.46666666666667,
+      "end": 64.61666666666666,
+      "en": "",
+      "zh": "",
+      "startFrame": 3748,
+      "endFrame": 3877,
+      "songStartFrame": 3436,
+      "songEndFrame": 3565,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L033",
+      "sourceIndex": 32,
+      "start": 64.65,
+      "end": 65.55,
+      "en": "",
+      "zh": "",
+      "startFrame": 3879,
+      "endFrame": 3933,
+      "songStartFrame": 3567,
+      "songEndFrame": 3621,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L034",
+      "sourceIndex": 33,
+      "start": 65.58333333333333,
+      "end": 67.25,
+      "en": "",
+      "zh": "",
+      "startFrame": 3935,
+      "endFrame": 4035,
+      "songStartFrame": 3623,
+      "songEndFrame": 3723,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L035",
+      "sourceIndex": 34,
+      "start": 67.28333333333333,
+      "end": 68.25,
+      "en": "",
+      "zh": "",
+      "startFrame": 4037,
+      "endFrame": 4095,
+      "songStartFrame": 3725,
+      "songEndFrame": 3783,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L036",
+      "sourceIndex": 35,
+      "start": 68.25,
+      "end": 69.15,
+      "en": "",
+      "zh": "",
+      "startFrame": 4095,
+      "endFrame": 4149,
+      "songStartFrame": 3783,
+      "songEndFrame": 3837,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L037",
+      "sourceIndex": 36,
+      "start": 69.18333333333334,
+      "end": 70.96666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 4151,
+      "endFrame": 4258,
+      "songStartFrame": 3839,
+      "songEndFrame": 3946,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L038",
+      "sourceIndex": 37,
+      "start": 71.0,
+      "end": 72.01666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 4260,
+      "endFrame": 4321,
+      "songStartFrame": 3948,
+      "songEndFrame": 4009,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L039",
+      "sourceIndex": 38,
+      "start": 72.05,
+      "end": 73.91666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 4323,
+      "endFrame": 4435,
+      "songStartFrame": 4011,
+      "songEndFrame": 4123,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L040",
+      "sourceIndex": 39,
+      "start": 73.95,
+      "end": 74.75,
+      "en": "",
+      "zh": "",
+      "startFrame": 4437,
+      "endFrame": 4485,
+      "songStartFrame": 4125,
+      "songEndFrame": 4173,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L041",
+      "sourceIndex": 40,
+      "start": 74.78333333333333,
+      "end": 75.61666666666666,
+      "en": "",
+      "zh": "",
+      "startFrame": 4487,
+      "endFrame": 4537,
+      "songStartFrame": 4175,
+      "songEndFrame": 4225,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L042",
+      "sourceIndex": 41,
+      "start": 75.65,
+      "end": 77.06666666666666,
+      "en": "",
+      "zh": "",
+      "startFrame": 4539,
+      "endFrame": 4624,
+      "songStartFrame": 4227,
+      "songEndFrame": 4312,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L043",
+      "sourceIndex": 42,
+      "start": 77.1,
+      "end": 78.36666666666666,
+      "en": "",
+      "zh": "",
+      "startFrame": 4626,
+      "endFrame": 4702,
+      "songStartFrame": 4314,
+      "songEndFrame": 4390,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L044",
+      "sourceIndex": 43,
+      "start": 78.4,
+      "end": 79.36666666666666,
+      "en": "",
+      "zh": "",
+      "startFrame": 4704,
+      "endFrame": 4762,
+      "songStartFrame": 4392,
+      "songEndFrame": 4450,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L045",
+      "sourceIndex": 44,
+      "start": 79.4,
+      "end": 80.88333333333334,
+      "en": "",
+      "zh": "",
+      "startFrame": 4764,
+      "endFrame": 4853,
+      "songStartFrame": 4452,
+      "songEndFrame": 4541,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L046",
+      "sourceIndex": 45,
+      "start": 80.91666666666667,
+      "end": 82.41666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 4855,
+      "endFrame": 4945,
+      "songStartFrame": 4543,
+      "songEndFrame": 4633,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L047",
+      "sourceIndex": 46,
+      "start": 82.45,
+      "end": 83.08333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 4947,
+      "endFrame": 4985,
+      "songStartFrame": 4635,
+      "songEndFrame": 4673,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L048",
+      "sourceIndex": 47,
+      "start": 83.11666666666666,
+      "end": 84.58333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 4987,
+      "endFrame": 5075,
+      "songStartFrame": 4675,
+      "songEndFrame": 4763,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L049",
+      "sourceIndex": 48,
+      "start": 84.61666666666666,
+      "end": 85.83333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 5077,
+      "endFrame": 5150,
+      "songStartFrame": 4765,
+      "songEndFrame": 4838,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L050",
+      "sourceIndex": 49,
+      "start": 85.86666666666666,
+      "end": 86.75,
+      "en": "",
+      "zh": "",
+      "startFrame": 5152,
+      "endFrame": 5205,
+      "songStartFrame": 4840,
+      "songEndFrame": 4893,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L051",
+      "sourceIndex": 50,
+      "start": 86.78333333333333,
+      "end": 88.3,
+      "en": "",
+      "zh": "",
+      "startFrame": 5207,
+      "endFrame": 5298,
+      "songStartFrame": 4895,
+      "songEndFrame": 4986,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L052",
+      "sourceIndex": 51,
+      "start": 88.35,
+      "end": 89.73333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 5301,
+      "endFrame": 5384,
+      "songStartFrame": 4989,
+      "songEndFrame": 5072,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L053",
+      "sourceIndex": 52,
+      "start": 89.76666666666667,
+      "end": 90.46666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 5386,
+      "endFrame": 5428,
+      "songStartFrame": 5074,
+      "songEndFrame": 5116,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L054",
+      "sourceIndex": 53,
+      "start": 90.5,
+      "end": 91.95,
+      "en": "",
+      "zh": "",
+      "startFrame": 5430,
+      "endFrame": 5517,
+      "songStartFrame": 5118,
+      "songEndFrame": 5205,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L055",
+      "sourceIndex": 54,
+      "start": 92.01666666666667,
+      "end": 93.45,
+      "en": "",
+      "zh": "",
+      "startFrame": 5521,
+      "endFrame": 5607,
+      "songStartFrame": 5209,
+      "songEndFrame": 5295,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L056",
+      "sourceIndex": 55,
+      "start": 93.48333333333333,
+      "end": 94.08333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 5609,
+      "endFrame": 5645,
+      "songStartFrame": 5297,
+      "songEndFrame": 5333,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L057",
+      "sourceIndex": 56,
+      "start": 94.08333333333333,
+      "end": 95.48333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 5645,
+      "endFrame": 5729,
+      "songStartFrame": 5333,
+      "songEndFrame": 5417,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L058",
+      "sourceIndex": 57,
+      "start": 95.66666666666667,
+      "end": 97.36666666666666,
+      "en": "",
+      "zh": "",
+      "startFrame": 5740,
+      "endFrame": 5842,
+      "songStartFrame": 5428,
+      "songEndFrame": 5530,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L059",
+      "sourceIndex": 58,
+      "start": 97.4,
+      "end": 99.2,
+      "en": "",
+      "zh": "",
+      "startFrame": 5844,
+      "endFrame": 5952,
+      "songStartFrame": 5532,
+      "songEndFrame": 5640,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L060",
+      "sourceIndex": 59,
+      "start": 99.3,
+      "end": 101.08333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 5958,
+      "endFrame": 6065,
+      "songStartFrame": 5646,
+      "songEndFrame": 5753,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L061",
+      "sourceIndex": 60,
+      "start": 101.11666666666666,
+      "end": 102.85,
+      "en": "",
+      "zh": "",
+      "startFrame": 6067,
+      "endFrame": 6171,
+      "songStartFrame": 5755,
+      "songEndFrame": 5859,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L062",
+      "sourceIndex": 61,
+      "start": 103.1,
+      "end": 104.65,
+      "en": "",
+      "zh": "",
+      "startFrame": 6186,
+      "endFrame": 6279,
+      "songStartFrame": 5874,
+      "songEndFrame": 5967,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L063",
+      "sourceIndex": 62,
+      "start": 104.68333333333334,
+      "end": 106.56666666666666,
+      "en": "",
+      "zh": "",
+      "startFrame": 6281,
+      "endFrame": 6394,
+      "songStartFrame": 5969,
+      "songEndFrame": 6082,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L064",
+      "sourceIndex": 63,
+      "start": 106.76666666666667,
+      "end": 108.76666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 6406,
+      "endFrame": 6526,
+      "songStartFrame": 6094,
+      "songEndFrame": 6214,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L065",
+      "sourceIndex": 64,
+      "start": 108.95,
+      "end": 109.85,
+      "en": "",
+      "zh": "",
+      "startFrame": 6537,
+      "endFrame": 6591,
+      "songStartFrame": 6225,
+      "songEndFrame": 6279,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L066",
+      "sourceIndex": 65,
+      "start": 109.88333333333334,
+      "end": 111.61666666666666,
+      "en": "",
+      "zh": "",
+      "startFrame": 6593,
+      "endFrame": 6697,
+      "songStartFrame": 6281,
+      "songEndFrame": 6385,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L067",
+      "sourceIndex": 66,
+      "start": 111.65,
+      "end": 112.58333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 6699,
+      "endFrame": 6755,
+      "songStartFrame": 6387,
+      "songEndFrame": 6443,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L068",
+      "sourceIndex": 67,
+      "start": 112.61666666666666,
+      "end": 113.45,
+      "en": "",
+      "zh": "",
+      "startFrame": 6757,
+      "endFrame": 6807,
+      "songStartFrame": 6445,
+      "songEndFrame": 6495,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L069",
+      "sourceIndex": 68,
+      "start": 113.48333333333333,
+      "end": 115.51666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 6809,
+      "endFrame": 6931,
+      "songStartFrame": 6497,
+      "songEndFrame": 6619,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L070",
+      "sourceIndex": 69,
+      "start": 115.55,
+      "end": 116.23333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 6933,
+      "endFrame": 6974,
+      "songStartFrame": 6621,
+      "songEndFrame": 6662,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L071",
+      "sourceIndex": 70,
+      "start": 116.26666666666667,
+      "end": 117.63333333333334,
+      "en": "",
+      "zh": "",
+      "startFrame": 6976,
+      "endFrame": 7058,
+      "songStartFrame": 6664,
+      "songEndFrame": 6746,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L072",
+      "sourceIndex": 71,
+      "start": 117.66666666666667,
+      "end": 118.55,
+      "en": "",
+      "zh": "",
+      "startFrame": 7060,
+      "endFrame": 7113,
+      "songStartFrame": 6748,
+      "songEndFrame": 6801,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L073",
+      "sourceIndex": 72,
+      "start": 118.58333333333333,
+      "end": 119.51666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 7115,
+      "endFrame": 7171,
+      "songStartFrame": 6803,
+      "songEndFrame": 6859,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L074",
+      "sourceIndex": 73,
+      "start": 119.55,
+      "end": 120.35,
+      "en": "",
+      "zh": "",
+      "startFrame": 7173,
+      "endFrame": 7221,
+      "songStartFrame": 6861,
+      "songEndFrame": 6909,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L075",
+      "sourceIndex": 74,
+      "start": 120.38333333333334,
+      "end": 121.33333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 7223,
+      "endFrame": 7280,
+      "songStartFrame": 6911,
+      "songEndFrame": 6968,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L076",
+      "sourceIndex": 75,
+      "start": 121.38333333333334,
+      "end": 122.75,
+      "en": "",
+      "zh": "",
+      "startFrame": 7283,
+      "endFrame": 7365,
+      "songStartFrame": 6971,
+      "songEndFrame": 7053,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L077",
+      "sourceIndex": 76,
+      "start": 122.78333333333333,
+      "end": 123.71666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 7367,
+      "endFrame": 7423,
+      "songStartFrame": 7055,
+      "songEndFrame": 7111,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L078",
+      "sourceIndex": 77,
+      "start": 123.75,
+      "end": 124.63333333333334,
+      "en": "",
+      "zh": "",
+      "startFrame": 7425,
+      "endFrame": 7478,
+      "songStartFrame": 7113,
+      "songEndFrame": 7166,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L079",
+      "sourceIndex": 78,
+      "start": 124.66666666666667,
+      "end": 126.81666666666666,
+      "en": "",
+      "zh": "",
+      "startFrame": 7480,
+      "endFrame": 7609,
+      "songStartFrame": 7168,
+      "songEndFrame": 7297,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L080",
+      "sourceIndex": 79,
+      "start": 126.85,
+      "end": 127.35,
+      "en": "",
+      "zh": "",
+      "startFrame": 7611,
+      "endFrame": 7641,
+      "songStartFrame": 7299,
+      "songEndFrame": 7329,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L081",
+      "sourceIndex": 80,
+      "start": 127.35,
+      "end": 128.21666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 7641,
+      "endFrame": 7693,
+      "songStartFrame": 7329,
+      "songEndFrame": 7381,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L082",
+      "sourceIndex": 81,
+      "start": 128.25,
+      "end": 130.28333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 7695,
+      "endFrame": 7817,
+      "songStartFrame": 7383,
+      "songEndFrame": 7505,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L083",
+      "sourceIndex": 82,
+      "start": 130.31666666666666,
+      "end": 131.0,
+      "en": "",
+      "zh": "",
+      "startFrame": 7819,
+      "endFrame": 7860,
+      "songStartFrame": 7507,
+      "songEndFrame": 7548,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L084",
+      "sourceIndex": 83,
+      "start": 131.01666666666668,
+      "end": 134.0,
+      "en": "",
+      "zh": "",
+      "startFrame": 7861,
+      "endFrame": 8040,
+      "songStartFrame": 7549,
+      "songEndFrame": 7728,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L085",
+      "sourceIndex": 84,
+      "start": 134.28333333333333,
+      "end": 136.5,
+      "en": "",
+      "zh": "",
+      "startFrame": 8057,
+      "endFrame": 8190,
+      "songStartFrame": 7745,
+      "songEndFrame": 7878,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L086",
+      "sourceIndex": 85,
+      "start": 136.66666666666666,
+      "end": 139.13333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 8200,
+      "endFrame": 8348,
+      "songStartFrame": 7888,
+      "songEndFrame": 8036,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L087",
+      "sourceIndex": 86,
+      "start": 153.2,
+      "end": 154.11666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 9192,
+      "endFrame": 9247,
+      "songStartFrame": 8880,
+      "songEndFrame": 8935,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L088",
+      "sourceIndex": 87,
+      "start": 154.15,
+      "end": 155.05,
+      "en": "",
+      "zh": "",
+      "startFrame": 9249,
+      "endFrame": 9303,
+      "songStartFrame": 8937,
+      "songEndFrame": 8991,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L089",
+      "sourceIndex": 88,
+      "start": 155.08333333333334,
+      "end": 155.95,
+      "en": "",
+      "zh": "",
+      "startFrame": 9305,
+      "endFrame": 9357,
+      "songStartFrame": 8993,
+      "songEndFrame": 9045,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L090",
+      "sourceIndex": 89,
+      "start": 155.98333333333332,
+      "end": 156.83333333333334,
+      "en": "",
+      "zh": "",
+      "startFrame": 9359,
+      "endFrame": 9410,
+      "songStartFrame": 9047,
+      "songEndFrame": 9098,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L091",
+      "sourceIndex": 90,
+      "start": 156.91666666666666,
+      "end": 157.83333333333334,
+      "en": "",
+      "zh": "",
+      "startFrame": 9415,
+      "endFrame": 9470,
+      "songStartFrame": 9103,
+      "songEndFrame": 9158,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L092",
+      "sourceIndex": 91,
+      "start": 157.86666666666667,
+      "end": 158.73333333333332,
+      "en": "",
+      "zh": "",
+      "startFrame": 9472,
+      "endFrame": 9524,
+      "songStartFrame": 9160,
+      "songEndFrame": 9212,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L093",
+      "sourceIndex": 92,
+      "start": 158.76666666666668,
+      "end": 159.65,
+      "en": "",
+      "zh": "",
+      "startFrame": 9526,
+      "endFrame": 9579,
+      "songStartFrame": 9214,
+      "songEndFrame": 9267,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L094",
+      "sourceIndex": 93,
+      "start": 159.68333333333334,
+      "end": 160.58333333333334,
+      "en": "",
+      "zh": "",
+      "startFrame": 9581,
+      "endFrame": 9635,
+      "songStartFrame": 9269,
+      "songEndFrame": 9323,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L095",
+      "sourceIndex": 94,
+      "start": 160.61666666666667,
+      "end": 161.51666666666668,
+      "en": "",
+      "zh": "",
+      "startFrame": 9637,
+      "endFrame": 9691,
+      "songStartFrame": 9325,
+      "songEndFrame": 9379,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L096",
+      "sourceIndex": 95,
+      "start": 161.55,
+      "end": 162.43333333333334,
+      "en": "",
+      "zh": "",
+      "startFrame": 9693,
+      "endFrame": 9746,
+      "songStartFrame": 9381,
+      "songEndFrame": 9434,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L097",
+      "sourceIndex": 96,
+      "start": 162.46666666666667,
+      "end": 163.35,
+      "en": "",
+      "zh": "",
+      "startFrame": 9748,
+      "endFrame": 9801,
+      "songStartFrame": 9436,
+      "songEndFrame": 9489,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L098",
+      "sourceIndex": 97,
+      "start": 163.38333333333333,
+      "end": 164.25,
+      "en": "",
+      "zh": "",
+      "startFrame": 9803,
+      "endFrame": 9855,
+      "songStartFrame": 9491,
+      "songEndFrame": 9543,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L099",
+      "sourceIndex": 98,
+      "start": 164.36666666666667,
+      "end": 164.58333333333334,
+      "en": "",
+      "zh": "",
+      "startFrame": 9862,
+      "endFrame": 9875,
+      "songStartFrame": 9550,
+      "songEndFrame": 9563,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L100",
+      "sourceIndex": 99,
+      "start": 164.71666666666667,
+      "end": 165.08333333333334,
+      "en": "",
+      "zh": "",
+      "startFrame": 9883,
+      "endFrame": 9905,
+      "songStartFrame": 9571,
+      "songEndFrame": 9593,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L101",
+      "sourceIndex": 100,
+      "start": 165.15,
+      "end": 165.48333333333332,
+      "en": "",
+      "zh": "",
+      "startFrame": 9909,
+      "endFrame": 9929,
+      "songStartFrame": 9597,
+      "songEndFrame": 9617,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L102",
+      "sourceIndex": 101,
+      "start": 165.65,
+      "end": 165.9,
+      "en": "",
+      "zh": "",
+      "startFrame": 9939,
+      "endFrame": 9954,
+      "songStartFrame": 9627,
+      "songEndFrame": 9642,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L103",
+      "sourceIndex": 102,
+      "start": 166.06666666666666,
+      "end": 166.51666666666668,
+      "en": "",
+      "zh": "",
+      "startFrame": 9964,
+      "endFrame": 9991,
+      "songStartFrame": 9652,
+      "songEndFrame": 9679,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L104",
+      "sourceIndex": 103,
+      "start": 166.55,
+      "end": 166.78333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 9993,
+      "endFrame": 10007,
+      "songStartFrame": 9681,
+      "songEndFrame": 9695,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L105",
+      "sourceIndex": 104,
+      "start": 167.06666666666666,
+      "end": 167.98333333333332,
+      "en": "",
+      "zh": "",
+      "startFrame": 10024,
+      "endFrame": 10079,
+      "songStartFrame": 9712,
+      "songEndFrame": 9767,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L106",
+      "sourceIndex": 105,
+      "start": 168.01666666666668,
+      "end": 168.93333333333334,
+      "en": "",
+      "zh": "",
+      "startFrame": 10081,
+      "endFrame": 10136,
+      "songStartFrame": 9769,
+      "songEndFrame": 9824,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L107",
+      "sourceIndex": 106,
+      "start": 168.96666666666667,
+      "end": 170.76666666666668,
+      "en": "",
+      "zh": "",
+      "startFrame": 10138,
+      "endFrame": 10246,
+      "songStartFrame": 9826,
+      "songEndFrame": 9934,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L108",
+      "sourceIndex": 107,
+      "start": 170.8,
+      "end": 171.61666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 10248,
+      "endFrame": 10297,
+      "songStartFrame": 9936,
+      "songEndFrame": 9985,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L109",
+      "sourceIndex": 108,
+      "start": 171.65,
+      "end": 172.53333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 10299,
+      "endFrame": 10352,
+      "songStartFrame": 9987,
+      "songEndFrame": 10040,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L110",
+      "sourceIndex": 109,
+      "start": 172.56666666666666,
+      "end": 174.45,
+      "en": "",
+      "zh": "",
+      "startFrame": 10354,
+      "endFrame": 10467,
+      "songStartFrame": 10042,
+      "songEndFrame": 10155,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L111",
+      "sourceIndex": 110,
+      "start": 174.48333333333332,
+      "end": 175.36666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 10469,
+      "endFrame": 10522,
+      "songStartFrame": 10157,
+      "songEndFrame": 10210,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L112",
+      "sourceIndex": 111,
+      "start": 175.4,
+      "end": 177.3,
+      "en": "",
+      "zh": "",
+      "startFrame": 10524,
+      "endFrame": 10638,
+      "songStartFrame": 10212,
+      "songEndFrame": 10326,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L113",
+      "sourceIndex": 112,
+      "start": 177.3,
+      "end": 178.15,
+      "en": "",
+      "zh": "",
+      "startFrame": 10638,
+      "endFrame": 10689,
+      "songStartFrame": 10326,
+      "songEndFrame": 10377,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L114",
+      "sourceIndex": 113,
+      "start": 178.18333333333334,
+      "end": 178.98333333333332,
+      "en": "",
+      "zh": "",
+      "startFrame": 10691,
+      "endFrame": 10739,
+      "songStartFrame": 10379,
+      "songEndFrame": 10427,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L115",
+      "sourceIndex": 114,
+      "start": 179.01666666666668,
+      "end": 180.38333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 10741,
+      "endFrame": 10823,
+      "songStartFrame": 10429,
+      "songEndFrame": 10511,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L116",
+      "sourceIndex": 115,
+      "start": 180.41666666666666,
+      "end": 182.88333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 10825,
+      "endFrame": 10973,
+      "songStartFrame": 10513,
+      "songEndFrame": 10661,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L117",
+      "sourceIndex": 116,
+      "start": 182.91666666666666,
+      "end": 183.81666666666666,
+      "en": "",
+      "zh": "",
+      "startFrame": 10975,
+      "endFrame": 11029,
+      "songStartFrame": 10663,
+      "songEndFrame": 10717,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L118",
+      "sourceIndex": 117,
+      "start": 183.85,
+      "end": 185.66666666666666,
+      "en": "",
+      "zh": "",
+      "startFrame": 11031,
+      "endFrame": 11140,
+      "songStartFrame": 10719,
+      "songEndFrame": 10828,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L119",
+      "sourceIndex": 118,
+      "start": 185.7,
+      "end": 186.35,
+      "en": "",
+      "zh": "",
+      "startFrame": 11142,
+      "endFrame": 11181,
+      "songStartFrame": 10830,
+      "songEndFrame": 10869,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L120",
+      "sourceIndex": 119,
+      "start": 186.38333333333333,
+      "end": 187.26666666666668,
+      "en": "",
+      "zh": "",
+      "startFrame": 11183,
+      "endFrame": 11236,
+      "songStartFrame": 10871,
+      "songEndFrame": 10924,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L121",
+      "sourceIndex": 120,
+      "start": 187.3,
+      "end": 189.53333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 11238,
+      "endFrame": 11372,
+      "songStartFrame": 10926,
+      "songEndFrame": 11060,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L122",
+      "sourceIndex": 121,
+      "start": 189.56666666666666,
+      "end": 190.26666666666668,
+      "en": "",
+      "zh": "",
+      "startFrame": 11374,
+      "endFrame": 11416,
+      "songStartFrame": 11062,
+      "songEndFrame": 11104,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L123",
+      "sourceIndex": 122,
+      "start": 190.3,
+      "end": 193.08333333333334,
+      "en": "",
+      "zh": "",
+      "startFrame": 11418,
+      "endFrame": 11585,
+      "songStartFrame": 11106,
+      "songEndFrame": 11273,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L124",
+      "sourceIndex": 123,
+      "start": 193.1,
+      "end": 193.71666666666667,
+      "en": "",
+      "zh": "",
+      "startFrame": 11586,
+      "endFrame": 11623,
+      "songStartFrame": 11274,
+      "songEndFrame": 11311,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L125",
+      "sourceIndex": 124,
+      "start": 193.75,
+      "end": 195.33333333333334,
+      "en": "",
+      "zh": "",
+      "startFrame": 11625,
+      "endFrame": 11720,
+      "songStartFrame": 11313,
+      "songEndFrame": 11408,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L126",
+      "sourceIndex": 125,
+      "start": 195.36666666666667,
+      "end": 196.01666666666668,
+      "en": "",
+      "zh": "",
+      "startFrame": 11722,
+      "endFrame": 11761,
+      "songStartFrame": 11410,
+      "songEndFrame": 11449,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L127",
+      "sourceIndex": 126,
+      "start": 196.06666666666666,
+      "end": 196.76666666666668,
+      "en": "",
+      "zh": "",
+      "startFrame": 11764,
+      "endFrame": 11806,
+      "songStartFrame": 11452,
+      "songEndFrame": 11494,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L128",
+      "sourceIndex": 127,
+      "start": 196.8,
+      "end": 197.63333333333333,
+      "en": "",
+      "zh": "",
+      "startFrame": 11808,
+      "endFrame": 11858,
+      "songStartFrame": 11496,
+      "songEndFrame": 11546,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L129",
+      "sourceIndex": 128,
+      "start": 211.36666666666667,
+      "end": 212.31666666666666,
+      "en": "",
+      "zh": "",
+      "startFrame": 12682,
+      "endFrame": 12739,
+      "songStartFrame": 12370,
+      "songEndFrame": 12427,
+      "displayEn": "",
+      "displayZh": ""
+    }
+  ],
+  "groups": [
+    {
+      "id": "L001",
+      "sourceIds": [
+        "L001"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 327,
+      "endFrame": 427,
+      "displayEndFrame": 429,
+      "fadeInFrames": 3,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L002",
+      "sourceIds": [
+        "L002"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 429,
+      "endFrame": 508,
+      "displayEndFrame": 510,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L003",
+      "sourceIds": [
+        "L003"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 510,
+      "endFrame": 551,
+      "displayEndFrame": 553,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L004",
+      "sourceIds": [
+        "L004"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 553,
+      "endFrame": 650,
+      "displayEndFrame": 652,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L005",
+      "sourceIds": [
+        "L005"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 652,
+      "endFrame": 704,
+      "displayEndFrame": 706,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L006",
+      "sourceIds": [
+        "L006"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 706,
+      "endFrame": 770,
+      "displayEndFrame": 772,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L007",
+      "sourceIds": [
+        "L007"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 772,
+      "endFrame": 927,
+      "displayEndFrame": 929,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L008",
+      "sourceIds": [
+        "L008"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 929,
+      "endFrame": 991,
+      "displayEndFrame": 993,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L009",
+      "sourceIds": [
+        "L009"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 993,
+      "endFrame": 1091,
+      "displayEndFrame": 1093,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L010",
+      "sourceIds": [
+        "L010"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 1093,
+      "endFrame": 1157,
+      "displayEndFrame": 1159,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L011",
+      "sourceIds": [
+        "L011"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 1159,
+      "endFrame": 1218,
+      "displayEndFrame": 1218,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 5,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L013",
+      "sourceIds": [
+        "L013"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 2106,
+      "endFrame": 2197,
+      "displayEndFrame": 2199,
+      "fadeInFrames": 3,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L014",
+      "sourceIds": [
+        "L014"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 2199,
+      "endFrame": 2282,
+      "displayEndFrame": 2284,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L015",
+      "sourceIds": [
+        "L015"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 2284,
+      "endFrame": 2327,
+      "displayEndFrame": 2329,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L016",
+      "sourceIds": [
+        "L016"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 2329,
+      "endFrame": 2417,
+      "displayEndFrame": 2419,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L017",
+      "sourceIds": [
+        "L017"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 2419,
+      "endFrame": 2501,
+      "displayEndFrame": 2503,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L018",
+      "sourceIds": [
+        "L018"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 2503,
+      "endFrame": 2548,
+      "displayEndFrame": 2550,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L019",
+      "sourceIds": [
+        "L019"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 2550,
+      "endFrame": 2640,
+      "displayEndFrame": 2641,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L020",
+      "sourceIds": [
+        "L020"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 2641,
+      "endFrame": 2737,
+      "displayEndFrame": 2739,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L021",
+      "sourceIds": [
+        "L021"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 2739,
+      "endFrame": 2768,
+      "displayEndFrame": 2770,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L022",
+      "sourceIds": [
+        "L022"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 2770,
+      "endFrame": 2860,
+      "displayEndFrame": 2862,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L023",
+      "sourceIds": [
+        "L023"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 2862,
+      "endFrame": 2932,
+      "displayEndFrame": 2934,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L024",
+      "sourceIds": [
+        "L024"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 2934,
+      "endFrame": 2983,
+      "displayEndFrame": 2985,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L025",
+      "sourceIds": [
+        "L025"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 2985,
+      "endFrame": 3072,
+      "displayEndFrame": 3072,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 5,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L026",
+      "sourceIds": [
+        "L026"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 3084,
+      "endFrame": 3183,
+      "displayEndFrame": 3185,
+      "fadeInFrames": 3,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L027",
+      "sourceIds": [
+        "L027"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 3185,
+      "endFrame": 3292,
+      "displayEndFrame": 3292,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 5,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L028",
+      "sourceIds": [
+        "L028"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 3304,
+      "endFrame": 3407,
+      "displayEndFrame": 3409,
+      "fadeInFrames": 3,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L029",
+      "sourceIds": [
+        "L029"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 3409,
+      "endFrame": 3512,
+      "displayEndFrame": 3512,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 5,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L030",
+      "sourceIds": [
+        "L030"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 3526,
+      "endFrame": 3628,
+      "displayEndFrame": 3630,
+      "fadeInFrames": 3,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L031",
+      "sourceIds": [
+        "L031"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 3630,
+      "endFrame": 3746,
+      "displayEndFrame": 3748,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L032",
+      "sourceIds": [
+        "L032"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 3748,
+      "endFrame": 3877,
+      "displayEndFrame": 3879,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L033",
+      "sourceIds": [
+        "L033"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 3879,
+      "endFrame": 3933,
+      "displayEndFrame": 3935,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L034",
+      "sourceIds": [
+        "L034"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 3935,
+      "endFrame": 4035,
+      "displayEndFrame": 4037,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L035",
+      "sourceIds": [
+        "L035"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 4037,
+      "endFrame": 4095,
+      "displayEndFrame": 4095,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L036",
+      "sourceIds": [
+        "L036"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 4095,
+      "endFrame": 4149,
+      "displayEndFrame": 4151,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L037",
+      "sourceIds": [
+        "L037"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 4151,
+      "endFrame": 4258,
+      "displayEndFrame": 4260,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L038",
+      "sourceIds": [
+        "L038"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 4260,
+      "endFrame": 4321,
+      "displayEndFrame": 4323,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L039",
+      "sourceIds": [
+        "L039"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 4323,
+      "endFrame": 4435,
+      "displayEndFrame": 4437,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L040",
+      "sourceIds": [
+        "L040"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 4437,
+      "endFrame": 4485,
+      "displayEndFrame": 4487,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L041",
+      "sourceIds": [
+        "L041"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 4487,
+      "endFrame": 4537,
+      "displayEndFrame": 4539,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L042",
+      "sourceIds": [
+        "L042"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 4539,
+      "endFrame": 4624,
+      "displayEndFrame": 4626,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L043",
+      "sourceIds": [
+        "L043"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 4626,
+      "endFrame": 4702,
+      "displayEndFrame": 4704,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L044",
+      "sourceIds": [
+        "L044"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 4704,
+      "endFrame": 4762,
+      "displayEndFrame": 4764,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L045",
+      "sourceIds": [
+        "L045"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 4764,
+      "endFrame": 4853,
+      "displayEndFrame": 4855,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L046",
+      "sourceIds": [
+        "L046"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 4855,
+      "endFrame": 4945,
+      "displayEndFrame": 4947,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L047",
+      "sourceIds": [
+        "L047"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 4947,
+      "endFrame": 4985,
+      "displayEndFrame": 4987,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L048",
+      "sourceIds": [
+        "L048"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 4987,
+      "endFrame": 5075,
+      "displayEndFrame": 5077,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L049",
+      "sourceIds": [
+        "L049"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 5077,
+      "endFrame": 5150,
+      "displayEndFrame": 5152,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L050",
+      "sourceIds": [
+        "L050"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 5152,
+      "endFrame": 5205,
+      "displayEndFrame": 5207,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L051",
+      "sourceIds": [
+        "L051"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 5207,
+      "endFrame": 5298,
+      "displayEndFrame": 5301,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L052",
+      "sourceIds": [
+        "L052"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 5301,
+      "endFrame": 5384,
+      "displayEndFrame": 5386,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L053",
+      "sourceIds": [
+        "L053"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 5386,
+      "endFrame": 5428,
+      "displayEndFrame": 5430,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L054",
+      "sourceIds": [
+        "L054"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 5430,
+      "endFrame": 5517,
+      "displayEndFrame": 5517,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 5,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L055",
+      "sourceIds": [
+        "L055"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 5521,
+      "endFrame": 5607,
+      "displayEndFrame": 5609,
+      "fadeInFrames": 3,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L056",
+      "sourceIds": [
+        "L056"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 5609,
+      "endFrame": 5645,
+      "displayEndFrame": 5645,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L057",
+      "sourceIds": [
+        "L057"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 5645,
+      "endFrame": 5729,
+      "displayEndFrame": 5729,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 5,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L058",
+      "sourceIds": [
+        "L058"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 5740,
+      "endFrame": 5842,
+      "displayEndFrame": 5844,
+      "fadeInFrames": 3,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L059",
+      "sourceIds": [
+        "L059"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 5844,
+      "endFrame": 5952,
+      "displayEndFrame": 5952,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 5,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L060",
+      "sourceIds": [
+        "L060"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 5958,
+      "endFrame": 6065,
+      "displayEndFrame": 6067,
+      "fadeInFrames": 3,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L061",
+      "sourceIds": [
+        "L061"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 6067,
+      "endFrame": 6171,
+      "displayEndFrame": 6171,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 5,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L062",
+      "sourceIds": [
+        "L062"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 6186,
+      "endFrame": 6279,
+      "displayEndFrame": 6281,
+      "fadeInFrames": 3,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L063",
+      "sourceIds": [
+        "L063"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 6281,
+      "endFrame": 6394,
+      "displayEndFrame": 6394,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 5,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L064",
+      "sourceIds": [
+        "L064"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 6406,
+      "endFrame": 6526,
+      "displayEndFrame": 6526,
+      "fadeInFrames": 3,
+      "fadeOutFrames": 5,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L065",
+      "sourceIds": [
+        "L065"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 6537,
+      "endFrame": 6591,
+      "displayEndFrame": 6593,
+      "fadeInFrames": 3,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L066",
+      "sourceIds": [
+        "L066"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 6593,
+      "endFrame": 6697,
+      "displayEndFrame": 6699,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L067",
+      "sourceIds": [
+        "L067"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 6699,
+      "endFrame": 6755,
+      "displayEndFrame": 6757,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L068",
+      "sourceIds": [
+        "L068"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 6757,
+      "endFrame": 6807,
+      "displayEndFrame": 6809,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L069",
+      "sourceIds": [
+        "L069"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 6809,
+      "endFrame": 6931,
+      "displayEndFrame": 6933,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L070",
+      "sourceIds": [
+        "L070"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 6933,
+      "endFrame": 6974,
+      "displayEndFrame": 6976,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L071",
+      "sourceIds": [
+        "L071"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 6976,
+      "endFrame": 7058,
+      "displayEndFrame": 7060,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L072",
+      "sourceIds": [
+        "L072",
+        "L073",
+        "L074",
+        "L075"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 7060,
+      "endFrame": 7280,
+      "displayEndFrame": 7283,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L076",
+      "sourceIds": [
+        "L076"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 7283,
+      "endFrame": 7365,
+      "displayEndFrame": 7367,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L077",
+      "sourceIds": [
+        "L077"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 7367,
+      "endFrame": 7423,
+      "displayEndFrame": 7425,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L078",
+      "sourceIds": [
+        "L078"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 7425,
+      "endFrame": 7478,
+      "displayEndFrame": 7480,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L079",
+      "sourceIds": [
+        "L079"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 7480,
+      "endFrame": 7609,
+      "displayEndFrame": 7611,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L080",
+      "sourceIds": [
+        "L080"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 7611,
+      "endFrame": 7641,
+      "displayEndFrame": 7641,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L081",
+      "sourceIds": [
+        "L081"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 7641,
+      "endFrame": 7693,
+      "displayEndFrame": 7695,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L082",
+      "sourceIds": [
+        "L082"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 7695,
+      "endFrame": 7817,
+      "displayEndFrame": 7819,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L083",
+      "sourceIds": [
+        "L083"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 7819,
+      "endFrame": 7860,
+      "displayEndFrame": 7861,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L084",
+      "sourceIds": [
+        "L084"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 7861,
+      "endFrame": 8040,
+      "displayEndFrame": 8040,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 5,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L085",
+      "sourceIds": [
+        "L085"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 8057,
+      "endFrame": 8190,
+      "displayEndFrame": 8190,
+      "fadeInFrames": 3,
+      "fadeOutFrames": 5,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L086",
+      "sourceIds": [
+        "L086"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 8200,
+      "endFrame": 8348,
+      "displayEndFrame": 8348,
+      "fadeInFrames": 3,
+      "fadeOutFrames": 5,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L087",
+      "sourceIds": [
+        "L087",
+        "L088",
+        "L089",
+        "L090"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 9192,
+      "endFrame": 9410,
+      "displayEndFrame": 9410,
+      "fadeInFrames": 3,
+      "fadeOutFrames": 5,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L091",
+      "sourceIds": [
+        "L091",
+        "L092",
+        "L093",
+        "L094",
+        "L095",
+        "L096",
+        "L097",
+        "L098"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 9415,
+      "endFrame": 9855,
+      "displayEndFrame": 9855,
+      "fadeInFrames": 3,
+      "fadeOutFrames": 5,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L099",
+      "sourceIds": [
+        "L099"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 9862,
+      "endFrame": 9875,
+      "displayEndFrame": 9875,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L100",
+      "sourceIds": [
+        "L100"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 9883,
+      "endFrame": 9905,
+      "displayEndFrame": 9905,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L101",
+      "sourceIds": [
+        "L101"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 9909,
+      "endFrame": 9929,
+      "displayEndFrame": 9929,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L102",
+      "sourceIds": [
+        "L102"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 9939,
+      "endFrame": 9954,
+      "displayEndFrame": 9954,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L103",
+      "sourceIds": [
+        "L103"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 9964,
+      "endFrame": 9991,
+      "displayEndFrame": 9993,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L104",
+      "sourceIds": [
+        "L104"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 9993,
+      "endFrame": 10007,
+      "displayEndFrame": 10007,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L105",
+      "sourceIds": [
+        "L105"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 10024,
+      "endFrame": 10079,
+      "displayEndFrame": 10081,
+      "fadeInFrames": 3,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L106",
+      "sourceIds": [
+        "L106"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 10081,
+      "endFrame": 10136,
+      "displayEndFrame": 10138,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L107",
+      "sourceIds": [
+        "L107"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 10138,
+      "endFrame": 10246,
+      "displayEndFrame": 10248,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L108",
+      "sourceIds": [
+        "L108"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 10248,
+      "endFrame": 10297,
+      "displayEndFrame": 10299,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L109",
+      "sourceIds": [
+        "L109"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 10299,
+      "endFrame": 10352,
+      "displayEndFrame": 10354,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L110",
+      "sourceIds": [
+        "L110"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 10354,
+      "endFrame": 10467,
+      "displayEndFrame": 10469,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L111",
+      "sourceIds": [
+        "L111"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 10469,
+      "endFrame": 10522,
+      "displayEndFrame": 10524,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L112",
+      "sourceIds": [
+        "L112"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 10524,
+      "endFrame": 10638,
+      "displayEndFrame": 10638,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L113",
+      "sourceIds": [
+        "L113"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 10638,
+      "endFrame": 10689,
+      "displayEndFrame": 10691,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L114",
+      "sourceIds": [
+        "L114"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 10691,
+      "endFrame": 10739,
+      "displayEndFrame": 10741,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L115",
+      "sourceIds": [
+        "L115"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 10741,
+      "endFrame": 10823,
+      "displayEndFrame": 10825,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L116",
+      "sourceIds": [
+        "L116"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 10825,
+      "endFrame": 10973,
+      "displayEndFrame": 10975,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L117",
+      "sourceIds": [
+        "L117"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 10975,
+      "endFrame": 11029,
+      "displayEndFrame": 11031,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L118",
+      "sourceIds": [
+        "L118"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 11031,
+      "endFrame": 11140,
+      "displayEndFrame": 11142,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L119",
+      "sourceIds": [
+        "L119"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 11142,
+      "endFrame": 11181,
+      "displayEndFrame": 11183,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L120",
+      "sourceIds": [
+        "L120"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 11183,
+      "endFrame": 11236,
+      "displayEndFrame": 11238,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L121",
+      "sourceIds": [
+        "L121"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 11238,
+      "endFrame": 11372,
+      "displayEndFrame": 11374,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L122",
+      "sourceIds": [
+        "L122"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 11374,
+      "endFrame": 11416,
+      "displayEndFrame": 11418,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L123",
+      "sourceIds": [
+        "L123"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 11418,
+      "endFrame": 11585,
+      "displayEndFrame": 11586,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L124",
+      "sourceIds": [
+        "L124"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 11586,
+      "endFrame": 11623,
+      "displayEndFrame": 11625,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L125",
+      "sourceIds": [
+        "L125"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 11625,
+      "endFrame": 11720,
+      "displayEndFrame": 11722,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L126",
+      "sourceIds": [
+        "L126"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 11722,
+      "endFrame": 11761,
+      "displayEndFrame": 11764,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L127",
+      "sourceIds": [
+        "L127"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 11764,
+      "endFrame": 11806,
+      "displayEndFrame": 11808,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 0,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L128",
+      "sourceIds": [
+        "L128"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 11808,
+      "endFrame": 11858,
+      "displayEndFrame": 11858,
+      "fadeInFrames": 0,
+      "fadeOutFrames": 5,
+      "displayEn": "",
+      "displayZh": ""
+    },
+    {
+      "id": "L129",
+      "sourceIds": [
+        "L129"
+      ],
+      "en": "",
+      "zh": "",
+      "startFrame": 12682,
+      "endFrame": 12739,
+      "displayEndFrame": 12739,
+      "fadeInFrames": 3,
+      "fadeOutFrames": 5,
+      "displayEn": "",
+      "displayZh": ""
+    }
+  ],
+  "publicationNote": "Timing skeleton only; all lyric text omitted."
+}

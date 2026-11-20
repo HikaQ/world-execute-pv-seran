@@ -1,0 +1,17 @@
+{
+  "name": "world-execute-pv-seran",
+  "version": "24.0.0",
+  "private": true,
+  "type": "module",
+  "description": "SERAN: a code-rendered particle music film. V24 source archive and silent scene preview.",
+  "license": "AGPL-3.0-or-later",
+  "repository": { "type": "git", "url": "git+https://github.com/HikaQ/world-execute-pv-seran.git" },
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dev": "node tools/serve.mjs",
+    "check": "node tools/check.mjs",
+    "stills": "node tools/capture.mjs",
+    "render": "node tools/capture.mjs --video"
+  },
+  "dependencies": { "playwright": "1.65.0", "three": "0.187.0" }
+}

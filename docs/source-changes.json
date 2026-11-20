@@ -1,0 +1,154 @@
+[
+  {
+    "path": "preview/refinement-refusal-entry-v1/edit-plan.json",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-opening-v15/score.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-arrival-v2/plan.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-possession-v19/score.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "references/world-execute-web/src/lib/glyphs.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "references/world-execute-web/src/ch/intro/obsidian.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "references/world-execute-web/src/ch/13_c3.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "references/world-execute-web/src/ch/10_bridge.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "references/world-execute-web/src/ch/08_c2.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "references/world-execute-web/src/ch/c2/ui.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "references/world-execute-web/src/ch/07_pre2.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "references/world-execute-web/src/ch/06_v2.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "references/world-execute-web/src/ch/01_intro.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-perception-v4/perception.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-opening-v15/annotations.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-opening-v15/persona-sequence.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-execution-v14/recall-manifest.json",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/transition-light-v1/edit-plan.json",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/transition-light-v1/clips.json",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "references/world-execute-web/data/timing.json",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-possession-v18/score.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-perception-v16/perception.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-refusal-continuation-v1/edit-plan.json",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-opening-v23/score.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-opening-v20/score.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-opening-v19/score.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-opening-v23/annotations.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-opening-v23/persona-sequence.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-possession-v13/score.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-arrival-v2/edit-plan.json",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-opening-v19/persona-sequence.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-opening-v19/annotations.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "data/lyrics-a-v2.json",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-geometry-v11/perception.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-perception-v17/perception.js",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-execution-v14/edit-plan.json",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "preview/refinement-arrival-v4/edit-plan.json",
+    "reason": "Portable paths / lyric text removed / accepted entry range"
+  },
+  {
+    "path": "data/lyrics-a-v2.json",
+    "reason": "All lyric text fields removed; runtime timing skeleton retained"
+  }
+]

@@ -1,0 +1,132 @@
+{
+  "version": "refinement-arrival-v4",
+  "date": "2026-11-14",
+  "status": "implemented-preview-awaiting-visual-review",
+  "planningOnly": false,
+  "newAnimationRendered": true,
+  "userApproved": false,
+  "request": "最后是 code 0，那个 0 可以就是隐藏的红点，然后再变化到中间；策划",
+  "basedOn": "out/full-film-review-v2/world-execute-full-v2-1080p60.mp4",
+  "priorClosingDirection": "data/ending-red-core-direction-v1.json",
+  "concept": "红核从一开始就藏在退出码 0 的字形内；其余文字退场后显露同一个核心，再连续移到中央，以开场的构图结束。",
+  "narrative": "观众先读到正常退出，随后发现代表希苒的红核仍在。",
+  "rangeFrames": [
+    12737,
+    13027
+  ],
+  "fps": 60,
+  "fullFilmDurationSeconds": 217.11666666666667,
+  "zeroAnchor": {
+    "sourceFrame": 12862,
+    "source": "out/refinement-arrival-v3/frames/12862.png",
+    "measuredGlyphBounds": [
+      1274,
+      513,
+      1291,
+      544
+    ],
+    "screenCenter": [
+      1282.5,
+      528.5
+    ],
+    "targetCenter": [
+      960,
+      540
+    ],
+    "motion": "almost horizontal leftward reframing, with a small downward component"
+  },
+  "timeline": [
+    {
+      "rangeFrames": [
+        12737,
+        12840
+      ],
+      "action": "保留原退出文字的输入与短暂停留；0 正常可读，暗红核心藏在其内部，作为低对比细节。",
+      "seconds": [
+        212.28333333333333,
+        214
+      ]
+    },
+    {
+      "rangeFrames": [
+        12840,
+        12873
+      ],
+      "action": "其余文字、方括号和光标退下，0 留在原位置并变红；内部粒子逐渐显露，字形轮廓退下，形成同中心的小红核。",
+      "seconds": [
+        214,
+        214.55
+      ]
+    },
+    {
+      "rangeFrames": [
+        12873,
+        12954
+      ],
+      "action": "核心沿近乎水平的路径移到画面中央；移动后半程与镜头推近重叠，等比放大到开场匹配的红核尺寸，最后自然减速。",
+      "seconds": [
+        214.55,
+        215.9
+      ]
+    },
+    {
+      "rangeFrames": [
+        12954,
+        13027
+      ],
+      "action": "居中保持约 1.22 秒，仅有轻微内部流动与明暗呼吸，红核可见直到最后一帧。",
+      "seconds": [
+        215.9,
+        217.11666666666667
+      ]
+    }
+  ],
+  "identityContinuity": {
+    "zeroAndCoreShareCenterDuringReveal": true,
+    "oneVisibleCore": true,
+    "continuousVisibleSubjectAfterZeroIsolation": true,
+    "zeroOutlinePreservesReadabilityUntilReveal": true,
+    "latentCoreUsesOpeningMaterial": true
+  },
+  "motion": {
+    "path": "single short leftward translation to center",
+    "camera": "fixed direction forward approach overlapping the latter part of translation",
+    "scale": "uniform apparent growth by camera distance; constant spherical proportions",
+    "overshoot": false,
+    "stretch": false,
+    "elasticBounce": false,
+    "spin": false,
+    "particleExplosion": false,
+    "trail": false,
+    "blackPause": false,
+    "hardCutBetweenZeroAndCore": false
+  },
+  "material": {
+    "source": "refinement-opening-v15 48,000-particle core",
+    "zero": "existing terminal dot-matrix glyph with a latent low-luminance red center",
+    "reveal": "latent core illuminates while the glyph outline loses emphasis; same center throughout",
+    "final": "same centered red core as opening, on black background"
+  },
+  "lastFrame": {
+    "frame": 13026,
+    "coreVisible": true,
+    "text": false,
+    "cursor": false,
+    "center": [
+      960,
+      540
+    ],
+    "fadeToBlack": false
+  },
+  "scope": "final terminal shot: reveal the hidden core in exit code 0, then reframe continuously",
+  "audio": {
+    "preserveSource": true,
+    "addedSound": false,
+    "timing": "use existing near-silent tail; no added beat or duration extension"
+  },
+  "basedOnVersion": "refinement-arrival-v3",
+  "implementationAuthorized": true,
+  "authorization": "开始",
+  "preview": "out/refinement-arrival-v4/seran-ending-red-core-v2-1080p60.mp4",
+  "fullFilmPreview": "out/full-film-review-v3/world-execute-full-v3-1080p60.mp4"
+}

@@ -1,0 +1,3 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8"><title>背景空间样片</title><base href="/references/world-execute-web/">
+<style>body{margin:0;background:#000}canvas{display:block;width:100%;height:auto}</style><canvas id="film" width="1920" height="1080"></canvas>
+<script type="module">try{const p=await(await fetch('/data/scene-copy-v7.json')).json();globalThis.__sceneCopyConfig={enabled:true,remove:p.remove,replace:p.replace};await import('/tools/scene_copy_v7.js');const mode=new URLSearchParams(location.search).get('range');await import('/preview/refinement-possession-background-v1/'+(mode==='memory'?'main-memory.js':'main.js'));}catch(e){window.filmFailure=e.stack;console.error(e);}</script></html>

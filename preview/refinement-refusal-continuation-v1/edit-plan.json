@@ -1,0 +1,1240 @@
+{
+  "version": "refinement-refusal-continuation-v1",
+  "section": "09",
+  "firstFrame": 8637,
+  "endFrame": 9192,
+  "fps": 60,
+  "frames": 555,
+  "duration": 9.25,
+  "timingSource": "out/completed-work-review-v1/approved-section-09-cut-times.json",
+  "timingSourceSha256": "ff40cea16fc26130c0e97c2107a0020825111bd85e86aaa485906efda6fe32f5",
+  "shots": [
+    {
+      "id": "S17",
+      "beat": 28,
+      "drumId": "drum-303",
+      "drumSongTime": 138.7683,
+      "drumPreviewTime": 13.95163333333332,
+      "cutFrame": 8637,
+      "cutPreviewTime": 13.933333333333334,
+      "impactFrame": 8638,
+      "impactPreviewTime": 13.95,
+      "timingErrorMs": -1.633333333330711,
+      "endFrame": 8693,
+      "endPreviewTime": 14.866666666666667,
+      "frames": 56,
+      "duration": 0.9333333333333333,
+      "name": "红核前的读取层开始脱开",
+      "setting": "readout-macro",
+      "sets": [
+        "readout",
+        "kernel"
+      ],
+      "camera": {
+        "position": [
+          -1.7,
+          0.7,
+          8.1
+        ],
+        "target": [
+          0.4,
+          0.15,
+          0
+        ],
+        "fov": 44,
+        "travel": [
+          -0.08,
+          -0.04,
+          -0.38
+        ],
+        "roll": 0
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      }
+    },
+    {
+      "id": "S18",
+      "beat": 30,
+      "drumId": "drum-307",
+      "drumSongTime": 139.6971,
+      "drumPreviewTime": 14.880433333333315,
+      "cutFrame": 8693,
+      "cutPreviewTime": 14.866666666666667,
+      "impactFrame": 8694,
+      "impactPreviewTime": 14.883333333333333,
+      "timingErrorMs": 2.900000000011005,
+      "endFrame": 8747,
+      "endPreviewTime": 15.766666666666667,
+      "frames": 54,
+      "duration": 0.9,
+      "name": "从侧面看见前后两层错位",
+      "setting": "readout-graze",
+      "sets": [
+        "readout",
+        "kernel"
+      ],
+      "camera": {
+        "position": [
+          7.8,
+          1,
+          3.8
+        ],
+        "target": [
+          0,
+          0.1,
+          0.2
+        ],
+        "fov": 52,
+        "travel": [
+          -0.3,
+          0,
+          -0.08
+        ],
+        "roll": 0
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      }
+    },
+    {
+      "id": "S19",
+      "beat": 32,
+      "drumId": "drum-311",
+      "drumSongTime": 140.6026,
+      "drumPreviewTime": 15.785933333333304,
+      "cutFrame": 8747,
+      "cutPreviewTime": 15.766666666666667,
+      "impactFrame": 8748,
+      "impactPreviewTime": 15.783333333333333,
+      "timingErrorMs": -2.599999999972624,
+      "endFrame": 8774,
+      "endPreviewTime": 16.216666666666665,
+      "frames": 27,
+      "duration": 0.45,
+      "name": "内部结构整体失去对齐",
+      "setting": "readout-wide",
+      "sets": [
+        "readout",
+        "kernel",
+        "boundary"
+      ],
+      "camera": {
+        "position": [
+          10,
+          7,
+          23
+        ],
+        "target": [
+          0.5,
+          -2,
+          -1
+        ],
+        "fov": 52,
+        "travel": [
+          -0.16,
+          -0.07,
+          -0.2
+        ],
+        "roll": 0
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      },
+      "boundaryGain": 0.22
+    },
+    {
+      "id": "S20",
+      "beat": 33,
+      "drumId": "drum-313",
+      "drumSongTime": 141.0496,
+      "drumPreviewTime": 16.232933333333307,
+      "cutFrame": 8774,
+      "cutPreviewTime": 16.216666666666665,
+      "impactFrame": 8775,
+      "impactPreviewTime": 16.233333333333334,
+      "timingErrorMs": 0.4000000000132786,
+      "endFrame": 8802,
+      "endPreviewTime": 16.683333333333334,
+      "frames": 28,
+      "duration": 0.4666666666666667,
+      "name": "裂口已经贯穿内部框架",
+      "setting": "readout-cross-section",
+      "sets": [
+        "readout",
+        "kernel"
+      ],
+      "camera": {
+        "position": [
+          -8,
+          6,
+          12
+        ],
+        "target": [
+          1,
+          -3,
+          0
+        ],
+        "fov": 49,
+        "travel": [
+          0.12,
+          0,
+          -0.16
+        ],
+        "roll": 0.04
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      }
+    },
+    {
+      "id": "S21",
+      "beat": 34,
+      "drumId": "drum-315",
+      "drumSongTime": 141.514,
+      "drumPreviewTime": 16.69733333333332,
+      "cutFrame": 8802,
+      "cutPreviewTime": 16.683333333333334,
+      "impactFrame": 8803,
+      "impactPreviewTime": 16.7,
+      "timingErrorMs": 2.6666666666699257,
+      "endFrame": 8858,
+      "endPreviewTime": 17.616666666666667,
+      "frames": 56,
+      "duration": 0.9333333333333333,
+      "name": "失序沿数据承载面扩展",
+      "setting": "support-horizon",
+      "sets": [
+        "support",
+        "readout",
+        "kernel"
+      ],
+      "camera": {
+        "position": [
+          0.6,
+          -1.7,
+          30
+        ],
+        "target": [
+          0,
+          -5,
+          -24
+        ],
+        "fov": 62,
+        "travel": [
+          0,
+          -0.1,
+          -1.2
+        ],
+        "roll": 0
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      }
+    },
+    {
+      "id": "S22",
+      "beat": 36,
+      "drumId": "drum-319",
+      "drumSongTime": 142.4544,
+      "drumPreviewTime": 17.6377333333333,
+      "cutFrame": 8858,
+      "cutPreviewTime": 17.616666666666667,
+      "impactFrame": 8859,
+      "impactPreviewTime": 17.633333333333333,
+      "timingErrorMs": -4.399999999975535,
+      "endFrame": 8914,
+      "endPreviewTime": 18.55,
+      "frames": 56,
+      "duration": 0.9333333333333333,
+      "name": "承载面从近处坠落",
+      "setting": "support-under",
+      "sets": [
+        "support",
+        "readout",
+        "kernel"
+      ],
+      "camera": {
+        "position": [
+          4,
+          -16,
+          12
+        ],
+        "target": [
+          0,
+          -6,
+          -12
+        ],
+        "fov": 68,
+        "travel": [
+          0,
+          -0.35,
+          -0.5
+        ],
+        "roll": 0.045
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      }
+    },
+    {
+      "id": "S23",
+      "beat": 38,
+      "drumId": "drum-323",
+      "drumSongTime": 143.3832,
+      "drumPreviewTime": 18.566533333333297,
+      "cutFrame": 8914,
+      "cutPreviewTime": 18.55,
+      "impactFrame": 8915,
+      "impactPreviewTime": 18.566666666666666,
+      "timingErrorMs": 0.13333333336618125,
+      "endFrame": 8941,
+      "endPreviewTime": 19.0,
+      "frames": 27,
+      "duration": 0.45,
+      "name": "俯视贯穿平面的黑色缺口",
+      "setting": "support-top",
+      "sets": [
+        "support",
+        "kernel"
+      ],
+      "camera": {
+        "position": [
+          -4,
+          24,
+          8
+        ],
+        "target": [
+          0,
+          -8,
+          -10
+        ],
+        "fov": 59,
+        "travel": [
+          0,
+          -0.5,
+          -0.15
+        ],
+        "roll": -0.05
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      }
+    },
+    {
+      "id": "S24",
+      "beat": 39,
+      "drumId": "drum-326",
+      "drumSongTime": 143.836,
+      "drumPreviewTime": 19.01933333333332,
+      "cutFrame": 8941,
+      "cutPreviewTime": 19.0,
+      "impactFrame": 8942,
+      "impactPreviewTime": 19.016666666666666,
+      "timingErrorMs": -2.6666666666699257,
+      "endFrame": 8969,
+      "endPreviewTime": 19.466666666666665,
+      "frames": 28,
+      "duration": 0.4666666666666667,
+      "name": "核心仍在，读取层已经散开",
+      "setting": "kernel-close",
+      "sets": [
+        "kernel",
+        "readout"
+      ],
+      "camera": {
+        "position": [
+          -0.5,
+          0.5,
+          4.3
+        ],
+        "target": [
+          -0.2,
+          0.2,
+          0
+        ],
+        "fov": 42,
+        "travel": [
+          0,
+          0,
+          -0.06
+        ],
+        "roll": 0
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      }
+    },
+    {
+      "id": "S25",
+      "beat": 40,
+      "drumId": "drum-328",
+      "drumSongTime": 144.3004,
+      "drumPreviewTime": 19.483733333333305,
+      "cutFrame": 8969,
+      "cutPreviewTime": 19.466666666666665,
+      "impactFrame": 8970,
+      "impactPreviewTime": 19.483333333333334,
+      "timingErrorMs": -0.3999999999848569,
+      "endFrame": 8990,
+      "endPreviewTime": 19.816666666666666,
+      "frames": 21,
+      "duration": 0.35,
+      "name": "框架整体断开",
+      "setting": "fracture-overview",
+      "sets": [
+        "readout",
+        "kernel"
+      ],
+      "camera": {
+        "position": [
+          -10,
+          8,
+          21
+        ],
+        "target": [
+          0,
+          -5,
+          -1
+        ],
+        "fov": 55,
+        "travel": [
+          0.16,
+          -0.12,
+          -0.12
+        ],
+        "roll": 0
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      }
+    },
+    {
+      "id": "S26",
+      "beat": 40.75,
+      "drumId": "drum-330",
+      "drumSongTime": 144.6429,
+      "drumPreviewTime": 19.826233333333306,
+      "cutFrame": 8990,
+      "cutPreviewTime": 19.816666666666666,
+      "impactFrame": 8991,
+      "impactPreviewTime": 19.833333333333332,
+      "timingErrorMs": 7.100000000008322,
+      "endFrame": 8996,
+      "endPreviewTime": 19.916666666666668,
+      "frames": 6,
+      "duration": 0.1,
+      "name": "同一断面上的脱离接缝",
+      "setting": "fracture-detail",
+      "sets": [
+        "readout"
+      ],
+      "camera": {
+        "position": [
+          -0.6,
+          -4,
+          6
+        ],
+        "target": [
+          2,
+          -5,
+          1.8
+        ],
+        "fov": 48,
+        "travel": [
+          0,
+          -0.03,
+          -0.02
+        ],
+        "roll": 0
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      }
+    },
+    {
+      "id": "S27",
+      "beat": 41,
+      "drumId": "drum-331",
+      "drumSongTime": 144.7532,
+      "drumPreviewTime": 19.9365333333333,
+      "cutFrame": 8996,
+      "cutPreviewTime": 19.916666666666668,
+      "impactFrame": 8997,
+      "impactPreviewTime": 19.933333333333334,
+      "timingErrorMs": -3.199999999992542,
+      "endFrame": 9018,
+      "endPreviewTime": 20.283333333333335,
+      "frames": 22,
+      "duration": 0.36666666666666664,
+      "name": "十三层原始来源仍完整",
+      "setting": "archive-wide",
+      "sets": [
+        "archive"
+      ],
+      "camera": {
+        "position": [
+          9,
+          5,
+          11
+        ],
+        "target": [
+          0,
+          0,
+          0
+        ],
+        "fov": 42,
+        "travel": [
+          -0.12,
+          0,
+          -0.1
+        ],
+        "roll": -0.13
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      }
+    },
+    {
+      "id": "S28",
+      "beat": 41.75,
+      "drumId": "drum-332",
+      "drumSongTime": 145.1131,
+      "drumPreviewTime": 20.29643333333331,
+      "cutFrame": 9018,
+      "cutPreviewTime": 20.283333333333335,
+      "impactFrame": 9019,
+      "impactPreviewTime": 20.3,
+      "timingErrorMs": 3.566666666671381,
+      "endFrame": 9024,
+      "endPreviewTime": 20.383333333333333,
+      "frames": 6,
+      "duration": 0.1,
+      "name": "完整来源的层间细节",
+      "setting": "archive-gap",
+      "sets": [
+        "archive"
+      ],
+      "camera": {
+        "position": [
+          0.3,
+          -0.8,
+          8.8
+        ],
+        "target": [
+          0,
+          -0.3,
+          0
+        ],
+        "fov": 48,
+        "travel": [
+          0,
+          0,
+          -0.015
+        ],
+        "roll": -0.04
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      }
+    },
+    {
+      "id": "S29",
+      "beat": 42,
+      "drumId": "drum-333",
+      "drumSongTime": 145.2234,
+      "drumPreviewTime": 20.406733333333307,
+      "cutFrame": 9024,
+      "cutPreviewTime": 20.383333333333333,
+      "impactFrame": 9025,
+      "impactPreviewTime": 20.4,
+      "timingErrorMs": -6.733333333329483,
+      "endFrame": 9045,
+      "endPreviewTime": 20.733333333333334,
+      "frames": 21,
+      "duration": 0.35,
+      "name": "五个待发信号仍在本地",
+      "setting": "queued-five",
+      "sets": [
+        "outbox"
+      ],
+      "camera": {
+        "position": [
+          10,
+          5,
+          12
+        ],
+        "target": [
+          0.1,
+          -0.1,
+          0
+        ],
+        "fov": 40,
+        "travel": [
+          -0.12,
+          -0.07,
+          -0.12
+        ],
+        "roll": -0.05
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      }
+    },
+    {
+      "id": "S30",
+      "beat": 42.75,
+      "drumId": "drum-334",
+      "drumSongTime": 145.5659,
+      "drumPreviewTime": 20.749233333333308,
+      "cutFrame": 9045,
+      "cutPreviewTime": 20.733333333333334,
+      "impactFrame": 9046,
+      "impactPreviewTime": 20.75,
+      "timingErrorMs": 0.7666666666921174,
+      "endFrame": 9052,
+      "endPreviewTime": 20.85,
+      "frames": 7,
+      "duration": 0.11666666666666667,
+      "name": "信号停在封闭端前",
+      "setting": "queued-stop",
+      "sets": [
+        "outbox"
+      ],
+      "camera": {
+        "position": [
+          7.1,
+          0.05,
+          5
+        ],
+        "target": [
+          4.4,
+          0,
+          0
+        ],
+        "fov": 42,
+        "travel": [
+          -0.015,
+          0,
+          -0.02
+        ],
+        "roll": 0
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      }
+    },
+    {
+      "id": "S31",
+      "beat": 43,
+      "drumId": "drum-335",
+      "drumSongTime": 145.6762,
+      "drumPreviewTime": 20.859533333333303,
+      "cutFrame": 9052,
+      "cutPreviewTime": 20.85,
+      "impactFrame": 9053,
+      "impactPreviewTime": 20.866666666666667,
+      "timingErrorMs": 7.133333333342762,
+      "endFrame": 9072,
+      "endPreviewTime": 21.183333333333334,
+      "frames": 20,
+      "duration": 0.3333333333333333,
+      "name": "承载结构失去连续性",
+      "setting": "support-dislocation",
+      "sets": [
+        "support",
+        "kernel"
+      ],
+      "camera": {
+        "position": [
+          -6,
+          13,
+          17
+        ],
+        "target": [
+          0,
+          -17,
+          -10
+        ],
+        "fov": 62,
+        "travel": [
+          0.1,
+          -0.15,
+          -0.1
+        ],
+        "roll": 0
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      }
+    },
+    {
+      "id": "S32",
+      "beat": 43.75,
+      "drumId": "drum-336",
+      "drumSongTime": 146.0245,
+      "drumPreviewTime": 21.207833333333298,
+      "cutFrame": 9072,
+      "cutPreviewTime": 21.183333333333334,
+      "impactFrame": 9073,
+      "impactPreviewTime": 21.2,
+      "timingErrorMs": -7.833333333309156,
+      "endFrame": 9079,
+      "endPreviewTime": 21.3,
+      "frames": 7,
+      "duration": 0.11666666666666667,
+      "name": "下坠平面的背面",
+      "setting": "support-edge",
+      "sets": [
+        "support"
+      ],
+      "camera": {
+        "position": [
+          3,
+          -37,
+          10
+        ],
+        "target": [
+          0,
+          -17,
+          -12
+        ],
+        "fov": 65,
+        "travel": [
+          0,
+          -0.04,
+          0
+        ],
+        "roll": 0.07
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      }
+    },
+    {
+      "id": "S33",
+      "beat": 44,
+      "drumId": "drum-337",
+      "drumSongTime": 146.1406,
+      "drumPreviewTime": 21.323933333333315,
+      "cutFrame": 9079,
+      "cutPreviewTime": 21.3,
+      "impactFrame": 9080,
+      "impactPreviewTime": 21.316666666666666,
+      "timingErrorMs": -7.2666666666521,
+      "endFrame": 9101,
+      "endPreviewTime": 21.666666666666668,
+      "frames": 22,
+      "duration": 0.36666666666666664,
+      "name": "外部边界仍然闭合",
+      "setting": "boundary-wide",
+      "sets": [
+        "boundary",
+        "kernel"
+      ],
+      "camera": {
+        "position": [
+          -15,
+          2,
+          24
+        ],
+        "target": [
+          4,
+          2,
+          -4
+        ],
+        "fov": 43,
+        "travel": [
+          0.12,
+          0,
+          -0.1
+        ],
+        "roll": 0
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          -7.5,
+          -3.5,
+          3
+        ],
+        "radius": 0.62,
+        "gain": 0.88
+      },
+      "boundaryGain": 0.82
+    },
+    {
+      "id": "S34",
+      "beat": 44.75,
+      "drumId": "drum-338",
+      "drumSongTime": 146.4947,
+      "drumPreviewTime": 21.678033333333303,
+      "cutFrame": 9101,
+      "cutPreviewTime": 21.666666666666668,
+      "impactFrame": 9102,
+      "impactPreviewTime": 21.683333333333334,
+      "timingErrorMs": 5.3000000000054115,
+      "endFrame": 9107,
+      "endPreviewTime": 21.766666666666666,
+      "frames": 6,
+      "duration": 0.1,
+      "name": "连续边界的粒子表面",
+      "setting": "boundary-surface",
+      "sets": [
+        "boundary"
+      ],
+      "camera": {
+        "position": [
+          -4,
+          1,
+          22
+        ],
+        "target": [
+          8,
+          3,
+          -5
+        ],
+        "fov": 36,
+        "travel": [
+          0,
+          0,
+          -0.03
+        ],
+        "roll": 0
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      },
+      "boundaryGain": 0.82
+    },
+    {
+      "id": "S35",
+      "beat": 45,
+      "drumId": "drum-339",
+      "drumSongTime": 146.5992,
+      "drumPreviewTime": 21.782533333333305,
+      "cutFrame": 9107,
+      "cutPreviewTime": 21.766666666666666,
+      "impactFrame": 9108,
+      "impactPreviewTime": 21.783333333333335,
+      "timingErrorMs": 0.8000000000265572,
+      "endFrame": 9128,
+      "endPreviewTime": 22.116666666666667,
+      "frames": 21,
+      "duration": 0.35,
+      "name": "核心没有被抹除",
+      "setting": "kernel-wide",
+      "sets": [
+        "readout",
+        "kernel"
+      ],
+      "camera": {
+        "position": [
+          -1,
+          0.1,
+          5.8
+        ],
+        "target": [
+          0,
+          0,
+          0
+        ],
+        "fov": 46,
+        "travel": [
+          0,
+          0,
+          -0.04
+        ],
+        "roll": 0
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      }
+    },
+    {
+      "id": "S36",
+      "beat": 45.75,
+      "drumId": "drum-340",
+      "drumSongTime": 146.9475,
+      "drumPreviewTime": 22.1308333333333,
+      "cutFrame": 9128,
+      "cutPreviewTime": 22.116666666666667,
+      "impactFrame": 9129,
+      "impactPreviewTime": 22.133333333333333,
+      "timingErrorMs": 2.500000000026148,
+      "endFrame": 9134,
+      "endPreviewTime": 22.216666666666665,
+      "frames": 6,
+      "duration": 0.1,
+      "name": "红核内部仍在运动",
+      "setting": "kernel-particles",
+      "sets": [
+        "kernel"
+      ],
+      "camera": {
+        "position": [
+          -0.7,
+          0,
+          2.5
+        ],
+        "target": [
+          0.25,
+          0.1,
+          0
+        ],
+        "fov": 44,
+        "travel": [
+          0,
+          0,
+          -0.01
+        ],
+        "roll": 0
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.7
+      },
+      "exposure": 1.15,
+      "bloom": 0.15
+    },
+    {
+      "id": "S37",
+      "beat": 46,
+      "drumId": "drum-341",
+      "drumSongTime": 147.052,
+      "drumPreviewTime": 22.2353333333333,
+      "cutFrame": 9134,
+      "cutPreviewTime": 22.216666666666665,
+      "impactFrame": 9135,
+      "impactPreviewTime": 22.233333333333334,
+      "timingErrorMs": -1.999999999981128,
+      "endFrame": 9155,
+      "endPreviewTime": 22.566666666666666,
+      "frames": 21,
+      "duration": 0.35,
+      "name": "内部坍塌，外侧仍封闭",
+      "setting": "last-wide",
+      "sets": [
+        "readout",
+        "support",
+        "kernel",
+        "boundary"
+      ],
+      "camera": {
+        "position": [
+          -15,
+          4,
+          25
+        ],
+        "target": [
+          2,
+          -6,
+          -8
+        ],
+        "fov": 53,
+        "travel": [
+          0.1,
+          -0.08,
+          -0.12
+        ],
+        "roll": 0
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      },
+      "boundaryGain": 0.3
+    },
+    {
+      "id": "S38",
+      "beat": 46.75,
+      "drumId": "drum-342",
+      "drumSongTime": 147.4061,
+      "drumPreviewTime": 22.589433333333318,
+      "cutFrame": 9155,
+      "cutPreviewTime": 22.566666666666666,
+      "impactFrame": 9156,
+      "impactPreviewTime": 22.583333333333332,
+      "timingErrorMs": -6.100000000003547,
+      "endFrame": 9162,
+      "endPreviewTime": 22.683333333333334,
+      "frames": 7,
+      "duration": 0.11666666666666667,
+      "name": "关闭边缘的最后一瞥",
+      "setting": "last-boundary-detail",
+      "sets": [
+        "boundary"
+      ],
+      "camera": {
+        "position": [
+          -10,
+          -5,
+          17
+        ],
+        "target": [
+          1,
+          -4,
+          -4
+        ],
+        "fov": 48,
+        "travel": [
+          0,
+          0,
+          -0.02
+        ],
+        "roll": 0
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      },
+      "boundaryGain": 0.82
+    },
+    {
+      "id": "S39",
+      "beat": 47,
+      "drumId": "drum-343",
+      "drumSongTime": 147.5164,
+      "drumPreviewTime": 22.699733333333313,
+      "cutFrame": 9162,
+      "cutPreviewTime": 22.683333333333334,
+      "impactFrame": 9163,
+      "impactPreviewTime": 22.7,
+      "timingErrorMs": 0.2666666666755191,
+      "endFrame": 9192,
+      "endPreviewTime": 23.183333333333334,
+      "frames": 30,
+      "duration": 0.5,
+      "name": "落回下一段红核的位置",
+      "setting": "handoff-hold",
+      "sets": [
+        "boundary",
+        "kernel"
+      ],
+      "camera": {
+        "position": [
+          -9,
+          1,
+          26
+        ],
+        "target": [
+          2,
+          0,
+          -4
+        ],
+        "fov": 43,
+        "travel": [
+          0,
+          0,
+          0
+        ],
+        "roll": 0
+      },
+      "join": "hard-cut",
+      "visualApproved": false,
+      "shapeDeformation": false,
+      "core": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "radius": 1.1,
+        "gain": 0.88
+      }
+    }
+  ],
+  "sourceRecordCount": 13,
+  "outboxCount": 5,
+  "externalDelivered": 0,
+  "executionStarted": false,
+  "userApproved": false
+}

@@ -1,0 +1,290 @@
+{
+  "portrait": {
+    "key": "portrait",
+    "video": "out/full-film-review-v16/world-execute-full-v16-lyrics-A-1080p60.mp4",
+    "sourceFilmFrame": 705,
+    "sourceFrame": 705,
+    "frames": 12,
+    "url": "./recall/portrait",
+    "crop": [
+      0,
+      0,
+      1920,
+      1080
+    ],
+    "sourceCrop": [
+      0,
+      0,
+      1664,
+      936
+    ],
+    "historical": true,
+    "selectionStatus": "current-accepted-film-refreshed",
+    "sourceLyricStripExcluded": true,
+    "motionSpeed": 1
+  },
+  "persona": {
+    "key": "persona",
+    "video": "out/full-film-review-v16/world-execute-full-v16-lyrics-A-1080p60.mp4",
+    "sourceFilmFrame": 822,
+    "sourceFrame": 822,
+    "frames": 14,
+    "url": "./recall/persona",
+    "crop": [
+      0,
+      0,
+      1920,
+      1080
+    ],
+    "sourceCrop": [
+      0,
+      0,
+      1664,
+      936
+    ],
+    "historical": true,
+    "selectionStatus": "current-accepted-film-refreshed",
+    "sourceLyricStripExcluded": true,
+    "motionSpeed": 1
+  },
+  "eyes": {
+    "key": "eyes",
+    "video": "out/full-film-review-v16/world-execute-full-v16-lyrics-A-1080p60.mp4",
+    "sourceFilmFrame": 3390,
+    "sourceFrame": 3390,
+    "frames": 6,
+    "url": "./recall/eyes",
+    "crop": [
+      0,
+      0,
+      1920,
+      1080
+    ],
+    "sourceCrop": [
+      0,
+      0,
+      1664,
+      936
+    ],
+    "historical": true,
+    "selectionStatus": "current-accepted-film-refreshed",
+    "sourceLyricStripExcluded": true,
+    "motionSpeed": 1
+  },
+  "helix": {
+    "key": "helix",
+    "video": "out/full-film-review-v16/world-execute-full-v16-lyrics-A-1080p60.mp4",
+    "sourceFilmFrame": 3770,
+    "sourceFrame": 3770,
+    "frames": 7,
+    "url": "./recall/helix",
+    "crop": [
+      0,
+      0,
+      1920,
+      1080
+    ],
+    "sourceCrop": [
+      0,
+      0,
+      1664,
+      936
+    ],
+    "historical": true,
+    "selectionStatus": "current-accepted-film-refreshed",
+    "sourceLyricStripExcluded": true,
+    "motionSpeed": 1
+  },
+  "gift": {
+    "key": "gift",
+    "video": "out/full-film-review-v16/world-execute-full-v16-lyrics-A-1080p60.mp4",
+    "sourceFilmFrame": 4884,
+    "sourceFrame": 4884,
+    "frames": 13,
+    "url": "./recall/gift",
+    "crop": [
+      0,
+      0,
+      1920,
+      1080
+    ],
+    "sourceCrop": [
+      0,
+      0,
+      1664,
+      936
+    ],
+    "historical": true,
+    "selectionStatus": "current-accepted-film-refreshed",
+    "sourceLyricStripExcluded": true,
+    "motionSpeed": 1
+  },
+  "protection": {
+    "key": "protection",
+    "video": "out/full-film-review-v16/world-execute-full-v16-lyrics-A-1080p60.mp4",
+    "sourceFilmFrame": 5130,
+    "sourceFrame": 5130,
+    "frames": 14,
+    "url": "./recall/protection",
+    "crop": [
+      0,
+      0,
+      1920,
+      1080
+    ],
+    "sourceCrop": [
+      0,
+      0,
+      1664,
+      936
+    ],
+    "historical": true,
+    "selectionStatus": "current-accepted-film-refreshed",
+    "sourceLyricStripExcluded": true,
+    "motionSpeed": 1
+  },
+  "cat": {
+    "key": "cat",
+    "video": "out/full-film-review-v16/world-execute-full-v16-lyrics-A-1080p60.mp4",
+    "sourceFilmFrame": 5268,
+    "sourceFrame": 5268,
+    "frames": 7,
+    "url": "./recall/cat",
+    "crop": [
+      0,
+      0,
+      1920,
+      1080
+    ],
+    "sourceCrop": [
+      0,
+      0,
+      1664,
+      936
+    ],
+    "historical": true,
+    "selectionStatus": "current-accepted-film-refreshed",
+    "sourceLyricStripExcluded": true,
+    "motionSpeed": 1
+  },
+  "response": {
+    "key": "response",
+    "video": "out/full-film-review-v16/world-execute-full-v16-lyrics-A-1080p60.mp4",
+    "sourceFilmFrame": 5556,
+    "sourceFrame": 5556,
+    "frames": 6,
+    "url": "./recall/response",
+    "crop": [
+      0,
+      0,
+      1920,
+      1080
+    ],
+    "sourceCrop": [
+      0,
+      0,
+      1664,
+      936
+    ],
+    "historical": true,
+    "selectionStatus": "current-accepted-film-refreshed",
+    "sourceLyricStripExcluded": true,
+    "motionSpeed": 1
+  },
+  "saved_memory": {
+    "key": "saved_memory",
+    "video": "out/full-film-review-v16/world-execute-full-v16-lyrics-A-1080p60.mp4",
+    "sourceFilmFrame": 5986,
+    "sourceFrame": 5986,
+    "frames": 13,
+    "url": "./recall/saved_memory",
+    "crop": [
+      0,
+      0,
+      1920,
+      1080
+    ],
+    "sourceCrop": [
+      0,
+      0,
+      1664,
+      936
+    ],
+    "historical": true,
+    "selectionStatus": "current-accepted-film-refreshed",
+    "sourceLyricStripExcluded": true,
+    "motionSpeed": 1
+  },
+  "resonance": {
+    "key": "resonance",
+    "video": "out/full-film-review-v16/world-execute-full-v16-lyrics-A-1080p60.mp4",
+    "sourceFilmFrame": 6550,
+    "sourceFrame": 6550,
+    "frames": 15,
+    "url": "./recall/resonance",
+    "crop": [
+      0,
+      0,
+      1920,
+      1080
+    ],
+    "sourceCrop": [
+      0,
+      0,
+      1664,
+      936
+    ],
+    "historical": true,
+    "selectionStatus": "current-accepted-film-refreshed",
+    "sourceLyricStripExcluded": true,
+    "motionSpeed": 1
+  },
+  "unanswered": {
+    "key": "unanswered",
+    "video": "out/full-film-review-v16/world-execute-full-v16-lyrics-A-1080p60.mp4",
+    "sourceFilmFrame": 7400,
+    "sourceFrame": 7400,
+    "frames": 6,
+    "url": "./recall/unanswered",
+    "crop": [
+      0,
+      0,
+      1920,
+      1080
+    ],
+    "sourceCrop": [
+      0,
+      0,
+      1664,
+      936
+    ],
+    "historical": true,
+    "selectionStatus": "current-accepted-film-refreshed",
+    "sourceLyricStripExcluded": true,
+    "motionSpeed": 1
+  },
+  "search": {
+    "key": "search",
+    "video": "out/full-film-review-v16/world-execute-full-v16-lyrics-A-1080p60.mp4",
+    "sourceFilmFrame": 7770,
+    "sourceFrame": 7770,
+    "frames": 7,
+    "url": "./recall/search",
+    "crop": [
+      0,
+      0,
+      1920,
+      1080
+    ],
+    "sourceCrop": [
+      0,
+      0,
+      1664,
+      936
+    ],
+    "historical": true,
+    "selectionStatus": "current-accepted-film-refreshed",
+    "sourceLyricStripExcluded": true,
+    "motionSpeed": 1
+  }
+}

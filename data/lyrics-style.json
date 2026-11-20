@@ -1,0 +1,32 @@
+{
+  "style": {
+    "name": "清晰双语",
+    "enFont": "Space Grotesk Medium",
+    "enSize": 30,
+    "enColor": "#c9c3d2",
+    "zhFont": "Noto Sans SC Medium",
+    "zhSize": 38,
+    "zhColor": "#f0edf4",
+    "englishCase": "original",
+    "background": "none",
+    "textEdge": "1.8px soft dark outline and subtle black shadow",
+    "displayPrefixes": {
+      "en": "> ",
+      "zh": "// "
+    }
+  },
+  "placement": {
+    "anchor": "bottom-left",
+    "left": 88,
+    "enBaseline": 966,
+    "zhBaseline": 1014,
+    "frameSize": [
+      1920,
+      1080
+    ],
+    "avoidCollisions": false
+  },
+  "fps": 60,
+  "frames": 13147,
+  "songOffsetFrames": 312
+}

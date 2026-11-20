@@ -1,0 +1,14 @@
+{
+  "version": "full-film-review-v24-4k",
+  "date": "2026-11-16",
+  "status": "approved-native-4k",
+  "frames": 13147,
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "fps": 60,
+  "duration": 219.11666666666667,
+  "sha256": "ce5e9e63972efae1d75a22f20cf128246639d3e2c8d405fbeedbd8be51f92803",
+  "captionVersion": "lyrics-A-v4"
+}

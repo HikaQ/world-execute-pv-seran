@@ -1,0 +1,366 @@
+{
+  "mode": "smoke",
+  "native4k": false,
+  "demo": true,
+  "samples": [
+    {
+      "frame": 300,
+      "source": "refinement-opening-v19",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "00300-1080p.png"
+    },
+    {
+      "frame": 840,
+      "source": "refinement-opening-v19",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "00840-1080p.png"
+    },
+    {
+      "frame": 1148,
+      "source": "refinement-opening-v19",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "01148-1080p.png"
+    },
+    {
+      "frame": 1661,
+      "source": "refinement-opening-v23",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "01661-1080p.png"
+    },
+    {
+      "frame": 2272,
+      "source": "refinement-geometry-v7",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "02272-1080p.png"
+    },
+    {
+      "frame": 2782,
+      "source": "integrated-code-light-v1",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "02782-1080p.png"
+    },
+    {
+      "frame": 3378,
+      "source": "refinement-perception-v16",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "03378-1080p.png"
+    },
+    {
+      "frame": 3752,
+      "source": "refinement-perception-v17",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "03752-1080p.png"
+    },
+    {
+      "frame": 4095,
+      "source": "refinement-forgetting-v17",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "04095-1080p.png"
+    },
+    {
+      "frame": 4399,
+      "source": "refinement-forgetting-v18",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "04399-1080p.png"
+    },
+    {
+      "frame": 4595,
+      "source": "refinement-forgetting-v17",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "04595-1080p.png"
+    },
+    {
+      "frame": 4723,
+      "source": "refinement-care-v4",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "04723-1080p.png"
+    },
+    {
+      "frame": 5084,
+      "source": "refinement-care-v8",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "05084-1080p.png"
+    },
+    {
+      "frame": 5527,
+      "source": "refinement-care-v7",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "05527-1080p.png"
+    },
+    {
+      "frame": 5734,
+      "source": "memory-entry-v2",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "05734-1080p.png"
+    },
+    {
+      "frame": 5955,
+      "source": "memory-clock-v7",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "05955-1080p.png"
+    },
+    {
+      "frame": 6174,
+      "source": "memory-absence-motion-v4",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "06174-1080p.png"
+    },
+    {
+      "frame": 6407,
+      "source": "memory-corridor-infinity-v2",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "06407-1080p.png"
+    },
+    {
+      "frame": 7197,
+      "source": "memory-absence-motion-v4",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "07197-1080p.png"
+    },
+    {
+      "frame": 8082,
+      "source": "refinement-refusal-entry-v1",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "08082-1080p.png"
+    },
+    {
+      "frame": 8470,
+      "source": "refinement-refusal-impact-v5",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "08470-1080p.png"
+    },
+    {
+      "frame": 8899,
+      "source": "refinement-refusal-continuation-v1",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "08899-1080p.png"
+    },
+    {
+      "frame": 9267,
+      "source": "transition-light-v1",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "09267-1080p.png"
+    },
+    {
+      "frame": 9727,
+      "source": "refinement-execution-v14",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "09727-1080p.png"
+    },
+    {
+      "frame": 10300,
+      "source": "refinement-possession-rework-v4",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "10300-1080p.png"
+    },
+    {
+      "frame": 10644,
+      "source": "refinement-possession-background-v1",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "10644-1080p.png"
+    },
+    {
+      "frame": 10866,
+      "source": "refinement-possession-v19",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "10866-1080p.png"
+    },
+    {
+      "frame": 11190,
+      "source": "refinement-possession-learning-v2",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "11190-1080p.png"
+    },
+    {
+      "frame": 11638,
+      "source": "refinement-possession-background-v1",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "11638-1080p.png"
+    },
+    {
+      "frame": 12311,
+      "source": "refinement-arrival-v2",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "12311-1080p.png"
+    },
+    {
+      "frame": 12896,
+      "source": "refinement-arrival-v4",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "12896-1080p.png"
+    },
+    {
+      "frame": 13087,
+      "source": "ending-true-story-v1",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "finite": true,
+      "status": "passed",
+      "file": "13087-1080p.png"
+    }
+  ],
+  "status": "passed",
+  "placeholders": [
+    "/assets/char/seran-avatar-user-20261110.png",
+    "/out/full-film-review-v3/checks/final-frame.png"
+  ],
+  "date": "2026-11-20",
+  "scope": "One representative frame per segment; demo assets. Not an exhaustive movie render or pixel-equivalence check."
+}

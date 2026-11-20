@@ -1,0 +1,38 @@
+{
+  "note": "Original test text, not song lyrics. Times are illustrative.",
+  "fps": 60,
+  "rows": [
+    {
+      "id": "demo-1",
+      "en": "A small signal is moving.",
+      "zh": "一个小小的信号正在移动。",
+      "startFrame": 0,
+      "endFrame": 120
+    },
+    {
+      "id": "demo-2",
+      "en": "A small signal is moving.",
+      "zh": "一个小小的信号正在移动。",
+      "startFrame": 120,
+      "endFrame": 240
+    }
+  ],
+  "groups": [
+    {
+      "id": "demo",
+      "sourceIds": [
+        "demo-1",
+        "demo-2"
+      ],
+      "en": "A small signal is moving.",
+      "zh": "一个小小的信号正在移动。",
+      "displayEn": "> A small signal is moving.",
+      "displayZh": "// 一个小小的信号正在移动。",
+      "startFrame": 0,
+      "endFrame": 240,
+      "displayEndFrame": 240,
+      "fadeInFrames": 3,
+      "fadeOutFrames": 6
+    }
+  ]
+}

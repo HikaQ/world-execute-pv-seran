@@ -1,0 +1,43 @@
+{
+  "policy": "Not bundled; restore only assets you are allowed to use. Demo placeholders are not final-film imagery.",
+  "files": [
+    {
+      "path": "assets/char/seran-avatar-user-20261110.png",
+      "reason": "External media / production cache; not distributed"
+    },
+    {
+      "path": "out/full-film-review-v3/checks/final-frame.png",
+      "reason": "External media / production cache; not distributed"
+    },
+    {
+      "path": "out/reexplore-full-v2/full-audio.wav",
+      "reason": "External media / production cache; not distributed"
+    },
+    {
+      "path": "out/refinement-arrival-v2/audio.wav",
+      "reason": "External media / production cache; not distributed"
+    },
+    {
+      "path": "out/refinement-arrival-v4/audio.wav",
+      "reason": "External media / production cache; not distributed"
+    },
+    {
+      "path": "out/refinement-execution-v14/audio.wav",
+      "reason": "External media / production cache; not distributed"
+    },
+    {
+      "path": "out/refinement-possession-v18/audio.wav",
+      "reason": "External media / production cache; not distributed"
+    }
+  ],
+  "runtimePatterns": [
+    {
+      "path": "preview/refinement-execution-v14/recall/<key>/<index:04d>.jpg",
+      "reason": "Clean historical recall images; indices and keys in recall-manifest.json"
+    },
+    {
+      "path": "preview/refinement-execution-v1/recall/<key>/<index:04d>.jpg",
+      "reason": "Legacy dependency alias; restore only if requested at runtime"
+    }
+  ]
+}

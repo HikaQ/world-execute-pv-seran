@@ -1,0 +1,18 @@
+{
+  "families": [
+    "JetBrains Mono",
+    "Space Grotesk",
+    "Noto Sans SC"
+  ],
+  "referenceConfig": "references/world-execute-web/src/engine/config.js",
+  "latinSource": "references/world-execute-web/assets/fonts",
+  "cjkSource": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssc/NotoSansSC%5Bwght%5D.ttf",
+  "cjkSubset": "NotoSansSC-FullFilm.ttf",
+  "requiredCjkCharacters": 283,
+  "missingCjkCharacters": [],
+  "licenses": [
+    "JetBrainsMono-OFL.txt",
+    "SpaceGrotesk-OFL.txt",
+    "NotoSansSC-OFL.txt"
+  ]
+}
